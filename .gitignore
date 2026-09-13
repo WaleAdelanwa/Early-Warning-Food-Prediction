@@ -1,0 +1,9 @@
+
+food_security_predictor/data/raw/faostat_food_balance/FoodBalanceSheets_E_All_Data_NOFLAG.csv
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/

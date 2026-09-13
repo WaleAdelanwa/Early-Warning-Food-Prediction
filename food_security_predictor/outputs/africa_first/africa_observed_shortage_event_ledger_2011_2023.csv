@@ -1,0 +1,335 @@
+Area Code,Area Code (M49),M49 Code,Area,Item Code (FBS),Item Code,Item,predictor_year,event_year,shortage_next_year,outcome_type,food_supply_kcal_cap_day,production_status,recorded_element_count,source_absent_element_count,source_present_missing_element_count,supply_outcome_recorded_count
+20,'072,072,Botswana,'S2807,2807,Rice and products,2010,2011,1,Observed shortage event,97.35,No production source row,16,4,0,5
+233,'854,854,Burkina Faso,'S2517,2517,Millet and products,2010,2011,1,Observed shortage event,443.37,Recorded positive production,18,2,0,5
+35,'132,132,Cabo Verde,'S2807,2807,Rice and products,2010,2011,1,Observed shortage event,546.06,No production source row,16,3,1,5
+81,'288,288,Ghana,'S2517,2517,Millet and products,2010,2011,1,Observed shortage event,53.33,Recorded positive production,18,2,0,5
+122,'426,426,Lesotho,'S2518,2518,Sorghum and products,2010,2011,1,Observed shortage event,62.11,Recorded positive production,18,2,0,5
+130,'454,454,Malawi,'S2511,2511,Wheat and products,2010,2011,1,Observed shortage event,83.82,Recorded positive production,19,1,0,5
+130,'454,454,Malawi,'S2552,2552,Groundnuts,2010,2011,1,Observed shortage event,19.16,Recorded positive production,17,3,0,5
+136,'478,478,Mauritania,'S2514,2514,Maize and products,2010,2011,1,Observed shortage event,47.82,Recorded positive production,16,3,1,5
+136,'478,478,Mauritania,'S2518,2518,Sorghum and products,2010,2011,1,Observed shortage event,232.92,Recorded positive production,16,4,0,5
+143,'504,504,Morocco,'S2514,2514,Maize and products,2010,2011,1,Observed shortage event,296.4,Recorded positive production,19,1,0,5
+158,'562,562,Niger,'S2511,2511,Wheat and products,2010,2011,1,Observed shortage event,39.46,Recorded positive production,18,2,0,5
+158,'562,562,Niger,'S2514,2514,Maize and products,2010,2011,1,Observed shortage event,28.72,Recorded positive production,19,1,0,5
+158,'562,562,Niger,'S2518,2518,Sorghum and products,2010,2011,1,Observed shortage event,354.32,Recorded positive production,18,2,0,5
+158,'562,562,Niger,'S2532,2532,Cassava and products,2010,2011,1,Observed shortage event,19.12,Recorded positive production,17,3,0,5
+159,'566,566,Nigeria,'S2517,2517,Millet and products,2010,2011,1,Observed shortage event,81.02,Recorded positive production,18,2,0,5
+193,'678,678,Sao Tome and Principe,'S2514,2514,Maize and products,2010,2011,1,Observed shortage event,87.27,Recorded positive production,18,2,0,5
+193,'678,678,Sao Tome and Principe,'S2532,2532,Cassava and products,2010,2011,1,Observed shortage event,32.36,Recorded positive production,13,5,2,4
+195,'686,686,Senegal,'S2514,2514,Maize and products,2010,2011,1,Observed shortage event,141.13,Recorded positive production,19,1,0,5
+195,'686,686,Senegal,'S2518,2518,Sorghum and products,2010,2011,1,Observed shortage event,96.53,Recorded positive production,18,2,0,5
+196,'690,690,Seychelles,'S2511,2511,Wheat and products,2010,2011,1,Observed shortage event,690.84,No production source row,16,3,1,5
+196,'690,690,Seychelles,'S2514,2514,Maize and products,2010,2011,1,Observed shortage event,252.5,No production source row,15,3,2,5
+215,'834,834,United Republic of Tanzania,'S2511,2511,Wheat and products,2010,2011,1,Observed shortage event,131.63,Recorded positive production,18,1,1,5
+181,'716,716,Zimbabwe,'S2517,2517,Millet and products,2010,2011,1,Observed shortage event,22.2,Recorded positive production,18,2,0,5
+181,'716,716,Zimbabwe,'S2518,2518,Sorghum and products,2010,2011,1,Observed shortage event,39.3,Recorded positive production,18,2,0,5
+181,'716,716,Zimbabwe,'S2552,2552,Groundnuts,2010,2011,1,Observed shortage event,28.31,Recorded positive production,17,3,0,5
+7,'024,024,Angola,'S2517,2517,Millet and products,2011,2012,1,Observed shortage event,16.67,Recorded positive production,18,2,0,5
+250,'180,180,Democratic Republic of the Congo,'S2511,2511,Wheat and products,2011,2012,1,Observed shortage event,67.18,Recorded positive production,18,2,0,5
+209,'748,748,Eswatini,'S2807,2807,Rice and products,2011,2012,1,Observed shortage event,225.01,Recorded positive production,18,1,1,5
+122,'426,426,Lesotho,'S2518,2518,Sorghum and products,2011,2012,1,Observed shortage event,27.36,Recorded positive production,18,2,0,5
+122,'426,426,Lesotho,'S2807,2807,Rice and products,2011,2012,1,Observed shortage event,56.97,No production source row,12,6,2,5
+130,'454,454,Malawi,'S2518,2518,Sorghum and products,2011,2012,1,Observed shortage event,28.1,Recorded positive production,18,2,0,5
+136,'478,478,Mauritania,'S2511,2511,Wheat and products,2011,2012,1,Observed shortage event,898.77,Recorded positive production,17,2,1,5
+137,'480,480,Mauritius,'S2807,2807,Rice and products,2011,2012,1,Observed shortage event,501.83,Recorded zero production,19,1,0,5
+144,'508,508,Mozambique,'S2532,2532,Cassava and products,2011,2012,1,Observed shortage event,629.7,Recorded positive production,18,2,0,5
+158,'562,562,Niger,'S2552,2552,Groundnuts,2011,2012,1,Observed shortage event,123.5,Recorded positive production,17,3,0,5
+159,'566,566,Nigeria,'S2552,2552,Groundnuts,2011,2012,1,Observed shortage event,65.21,Recorded positive production,17,2,1,5
+184,'646,646,Rwanda,'S2511,2511,Wheat and products,2011,2012,1,Observed shortage event,54.26,Recorded positive production,19,1,0,5
+195,'686,686,Senegal,'S2552,2552,Groundnuts,2011,2012,1,Observed shortage event,115.09,Recorded positive production,17,2,1,5
+197,'694,694,Sierra Leone,'S2514,2514,Maize and products,2011,2012,1,Observed shortage event,54.49,Recorded positive production,16,3,1,5
+226,'800,800,Uganda,'S2518,2518,Sorghum and products,2011,2012,1,Observed shortage event,31.43,Recorded positive production,18,2,0,5
+215,'834,834,United Republic of Tanzania,'S2517,2517,Millet and products,2011,2012,1,Observed shortage event,33.73,Recorded positive production,18,2,0,5
+181,'716,716,Zimbabwe,'S2518,2518,Sorghum and products,2011,2012,1,Observed shortage event,27.76,Recorded positive production,18,2,0,5
+181,'716,716,Zimbabwe,'S2552,2552,Groundnuts,2011,2012,1,Observed shortage event,20.83,Recorded positive production,17,3,0,5
+233,'854,854,Burkina Faso,'S2535,2535,Yams,2012,2013,1,Observed shortage event,14.89,Recorded positive production,15,3,2,5
+35,'132,132,Cabo Verde,'S2532,2532,Cassava and products,2012,2013,1,Observed shortage event,41.74,Recorded positive production,17,3,0,5
+46,'178,178,Congo,'S2514,2514,Maize and products,2012,2013,1,Observed shortage event,31.22,Recorded positive production,18,1,1,5
+238,'231,231,Ethiopia,'S2535,2535,Yams,2012,2013,1,Observed shortage event,6.43,Recorded positive production,15,3,2,4
+81,'288,288,Ghana,'S2517,2517,Millet and products,2012,2013,1,Observed shortage event,41.69,Recorded positive production,18,2,0,5
+81,'288,288,Ghana,'S2552,2552,Groundnuts,2012,2013,1,Observed shortage event,88.78,Recorded positive production,17,3,0,5
+175,'624,624,Guinea-Bissau,'S2532,2532,Cassava and products,2012,2013,1,Observed shortage event,126.51,Recorded positive production,13,5,2,4
+114,'404,404,Kenya,'S2511,2511,Wheat and products,2012,2013,1,Observed shortage event,255.89,Recorded positive production,20,0,0,5
+114,'404,404,Kenya,'S2807,2807,Rice and products,2012,2013,1,Observed shortage event,119.78,Recorded positive production,20,0,0,5
+122,'426,426,Lesotho,'S2807,2807,Rice and products,2012,2013,1,Observed shortage event,47.23,No production source row,12,6,2,5
+129,'450,450,Madagascar,'S2532,2532,Cassava and products,2012,2013,1,Observed shortage event,408.63,Recorded positive production,18,2,0,5
+136,'478,478,Mauritania,'S2514,2514,Maize and products,2012,2013,1,Observed shortage event,70.95,Recorded positive production,17,3,0,5
+136,'478,478,Mauritania,'S2518,2518,Sorghum and products,2012,2013,1,Observed shortage event,235.05,Recorded positive production,16,4,0,5
+143,'504,504,Morocco,'S2807,2807,Rice and products,2012,2013,1,Observed shortage event,17.9,Recorded positive production,18,2,0,5
+144,'508,508,Mozambique,'S2514,2514,Maize and products,2012,2013,1,Observed shortage event,641.29,Recorded positive production,19,1,0,5
+144,'508,508,Mozambique,'S2552,2552,Groundnuts,2012,2013,1,Observed shortage event,19.53,Recorded positive production,17,3,0,5
+158,'562,562,Niger,'S2511,2511,Wheat and products,2012,2013,1,Observed shortage event,39.57,Recorded positive production,18,2,0,5
+159,'566,566,Nigeria,'S2552,2552,Groundnuts,2012,2013,1,Observed shortage event,41.59,Recorded positive production,17,2,1,5
+184,'646,646,Rwanda,'S2807,2807,Rice and products,2012,2013,1,Observed shortage event,86.45,Recorded positive production,19,1,0,5
+195,'686,686,Senegal,'S2514,2514,Maize and products,2012,2013,1,Observed shortage event,172.85,Recorded positive production,19,1,0,5
+195,'686,686,Senegal,'S2518,2518,Sorghum and products,2012,2013,1,Observed shortage event,76.41,Recorded positive production,18,2,0,5
+195,'686,686,Senegal,'S2532,2532,Cassava and products,2012,2013,1,Observed shortage event,32.83,Recorded positive production,17,2,1,5
+196,'690,690,Seychelles,'S2514,2514,Maize and products,2012,2013,1,Observed shortage event,164.12,No production source row,16,3,1,5
+226,'800,800,Uganda,'S2511,2511,Wheat and products,2012,2013,1,Observed shortage event,102.99,Recorded positive production,19,1,0,5
+226,'800,800,Uganda,'S2518,2518,Sorghum and products,2012,2013,1,Observed shortage event,18.66,Recorded positive production,18,2,0,5
+251,'894,894,Zambia,'S2511,2511,Wheat and products,2012,2013,1,Observed shortage event,92.69,Recorded positive production,19,1,0,5
+251,'894,894,Zambia,'S2552,2552,Groundnuts,2012,2013,1,Observed shortage event,121.3,Recorded positive production,17,3,0,5
+7,'024,024,Angola,'S2532,2532,Cassava and products,2013,2014,1,Observed shortage event,752.49,Recorded positive production,17,2,1,5
+20,'072,072,Botswana,'S2518,2518,Sorghum and products,2013,2014,1,Observed shortage event,185.5,Recorded positive production,19,1,0,5
+35,'132,132,Cabo Verde,'S2807,2807,Rice and products,2013,2014,1,Observed shortage event,496.02,No production source row,15,3,2,5
+46,'178,178,Congo,'S2807,2807,Rice and products,2013,2014,1,Observed shortage event,132.58,Recorded positive production,19,1,0,5
+72,'262,262,Djibouti,'S2514,2514,Maize and products,2013,2014,1,Observed shortage event,7.95,Recorded zero production,17,2,1,5
+59,'818,818,Egypt,'S2552,2552,Groundnuts,2013,2014,1,Observed shortage event,15.55,Recorded positive production,18,1,1,5
+209,'748,748,Eswatini,'S2518,2518,Sorghum and products,2013,2014,1,Observed shortage event,25.77,Recorded positive production,18,2,0,5
+209,'748,748,Eswatini,'S2552,2552,Groundnuts,2013,2014,1,Observed shortage event,42.27,Recorded positive production,16,4,0,5
+209,'748,748,Eswatini,'S2807,2807,Rice and products,2013,2014,1,Observed shortage event,220.81,Recorded positive production,18,1,1,5
+74,'266,266,Gabon,'S2807,2807,Rice and products,2013,2014,1,Observed shortage event,344.06,Recorded positive production,18,2,0,5
+75,'270,270,Gambia,'S2514,2514,Maize and products,2013,2014,1,Observed shortage event,152.44,Recorded positive production,19,1,0,5
+75,'270,270,Gambia,'S2517,2517,Millet and products,2013,2014,1,Observed shortage event,342.96,Recorded positive production,18,1,1,5
+75,'270,270,Gambia,'S2518,2518,Sorghum and products,2013,2014,1,Observed shortage event,94.76,Recorded positive production,16,2,2,5
+81,'288,288,Ghana,'S2514,2514,Maize and products,2013,2014,1,Observed shortage event,239.07,Recorded positive production,19,1,0,5
+90,'324,324,Guinea,'S2552,2552,Groundnuts,2013,2014,1,Observed shortage event,102.63,Recorded positive production,17,3,0,5
+175,'624,624,Guinea-Bissau,'S2517,2517,Millet and products,2013,2014,1,Observed shortage event,64.23,Recorded positive production,17,3,0,5
+175,'624,624,Guinea-Bissau,'S2518,2518,Sorghum and products,2013,2014,1,Observed shortage event,99.92,Recorded positive production,17,3,0,5
+175,'624,624,Guinea-Bissau,'S2807,2807,Rice and products,2013,2014,1,Observed shortage event,1026.28,Recorded positive production,17,3,0,5
+114,'404,404,Kenya,'S2552,2552,Groundnuts,2013,2014,1,Observed shortage event,23.39,Recorded positive production,18,1,1,5
+122,'426,426,Lesotho,'S2511,2511,Wheat and products,2013,2014,1,Observed shortage event,338.91,Recorded positive production,17,3,0,5
+130,'454,454,Malawi,'S2511,2511,Wheat and products,2013,2014,1,Observed shortage event,86.28,Recorded positive production,18,1,1,5
+130,'454,454,Malawi,'S2552,2552,Groundnuts,2013,2014,1,Observed shortage event,29.92,Recorded positive production,17,3,0,5
+136,'478,478,Mauritania,'S2518,2518,Sorghum and products,2013,2014,1,Observed shortage event,164.11,Recorded positive production,16,4,0,5
+137,'480,480,Mauritius,'S2514,2514,Maize and products,2013,2014,1,Observed shortage event,52.17,Recorded positive production,19,1,0,5
+147,'516,516,Namibia,'S2807,2807,Rice and products,2013,2014,1,Observed shortage event,63.31,No production source row,15,5,0,5
+159,'566,566,Nigeria,'S2807,2807,Rice and products,2013,2014,1,Observed shortage event,283.97,Recorded positive production,18,2,0,5
+195,'686,686,Senegal,'S2552,2552,Groundnuts,2013,2014,1,Observed shortage event,97.19,Recorded positive production,17,2,1,5
+197,'694,694,Sierra Leone,'S2514,2514,Maize and products,2013,2014,1,Observed shortage event,38.78,Recorded positive production,16,3,1,5
+202,'710,710,South Africa,'S2518,2518,Sorghum and products,2013,2014,1,Observed shortage event,14.6,Recorded positive production,18,2,0,5
+251,'894,894,Zambia,'S2511,2511,Wheat and products,2013,2014,1,Observed shortage event,55.24,Recorded positive production,19,1,0,5
+251,'894,894,Zambia,'S2532,2532,Cassava and products,2013,2014,1,Observed shortage event,222.49,Recorded positive production,17,2,1,5
+181,'716,716,Zimbabwe,'S2552,2552,Groundnuts,2013,2014,1,Observed shortage event,16.61,Recorded positive production,17,3,0,5
+20,'072,072,Botswana,'S2517,2517,Millet and products,2014,2015,1,Observed shortage event,11.97,Recorded positive production,17,2,1,5
+233,'854,854,Burkina Faso,'S2518,2518,Sorghum and products,2014,2015,1,Observed shortage event,396.78,Recorded positive production,17,2,1,4
+35,'132,132,Cabo Verde,'S2532,2532,Cassava and products,2014,2015,1,Observed shortage event,46.38,Recorded positive production,15,3,2,5
+46,'178,178,Congo,'S2514,2514,Maize and products,2014,2015,1,Observed shortage event,33.05,Recorded positive production,17,1,2,5
+46,'178,178,Congo,'S2807,2807,Rice and products,2014,2015,1,Observed shortage event,39.86,Recorded positive production,19,1,0,5
+209,'748,748,Eswatini,'S2552,2552,Groundnuts,2014,2015,1,Observed shortage event,35.34,Recorded positive production,16,4,0,5
+75,'270,270,Gambia,'S2517,2517,Millet and products,2014,2015,1,Observed shortage event,238.83,Recorded positive production,17,1,2,4
+75,'270,270,Gambia,'S2552,2552,Groundnuts,2014,2015,1,Observed shortage event,107.84,Recorded positive production,17,3,0,5
+90,'324,324,Guinea,'S2511,2511,Wheat and products,2014,2015,1,Observed shortage event,185.07,Source-present missing production,14,4,2,5
+175,'624,624,Guinea-Bissau,'S2514,2514,Maize and products,2014,2015,1,Observed shortage event,31.07,Recorded positive production,17,2,1,5
+114,'404,404,Kenya,'S2532,2532,Cassava and products,2014,2015,1,Observed shortage event,56.11,Recorded positive production,17,0,3,5
+114,'404,404,Kenya,'S2807,2807,Rice and products,2014,2015,1,Observed shortage event,157.35,Recorded positive production,19,0,1,5
+123,'430,430,Liberia,'S2511,2511,Wheat and products,2014,2015,1,Observed shortage event,70.43,No production source row,14,6,0,5
+124,'434,434,Libya,'S2514,2514,Maize and products,2014,2015,1,Observed shortage event,17.58,Recorded positive production,16,3,1,5
+130,'454,454,Malawi,'S2518,2518,Sorghum and products,2014,2015,1,Observed shortage event,21.52,Recorded positive production,18,2,0,5
+144,'508,508,Mozambique,'S2517,2517,Millet and products,2014,2015,1,Observed shortage event,11.91,Recorded positive production,16,2,2,5
+144,'508,508,Mozambique,'S2518,2518,Sorghum and products,2014,2015,1,Observed shortage event,69.29,Recorded positive production,17,2,1,5
+158,'562,562,Niger,'S2514,2514,Maize and products,2014,2015,1,Observed shortage event,43.46,Recorded positive production,18,1,1,5
+159,'566,566,Nigeria,'S2552,2552,Groundnuts,2014,2015,1,Observed shortage event,87.23,Recorded positive production,18,2,0,5
+184,'646,646,Rwanda,'S2511,2511,Wheat and products,2014,2015,1,Observed shortage event,79.2,Recorded positive production,17,1,2,5
+184,'646,646,Rwanda,'S2514,2514,Maize and products,2014,2015,1,Observed shortage event,465.75,Recorded positive production,17,1,2,5
+196,'690,690,Seychelles,'S2514,2514,Maize and products,2014,2015,1,Observed shortage event,133.97,No production source row,16,3,1,5
+197,'694,694,Sierra Leone,'S2552,2552,Groundnuts,2014,2015,1,Observed shortage event,59.93,Recorded positive production,17,3,0,5
+226,'800,800,Uganda,'S2807,2807,Rice and products,2014,2015,1,Observed shortage event,67.87,Recorded positive production,18,1,1,5
+215,'834,834,United Republic of Tanzania,'S2518,2518,Sorghum and products,2014,2015,1,Observed shortage event,65.7,Recorded positive production,18,2,0,5
+181,'716,716,Zimbabwe,'S2518,2518,Sorghum and products,2014,2015,1,Observed shortage event,36.07,Recorded positive production,18,2,0,5
+20,'072,072,Botswana,'S2518,2518,Sorghum and products,2015,2016,1,Observed shortage event,130.55,Recorded positive production,19,1,0,5
+35,'132,132,Cabo Verde,'S2807,2807,Rice and products,2015,2016,1,Observed shortage event,479.62,No production source row,16,3,1,5
+72,'262,262,Djibouti,'S2552,2552,Groundnuts,2015,2016,1,Observed shortage event,17.17,No production source row,11,8,1,5
+75,'270,270,Gambia,'S2514,2514,Maize and products,2015,2016,1,Observed shortage event,133.79,Recorded positive production,18,1,1,5
+114,'404,404,Kenya,'S2517,2517,Millet and products,2015,2016,1,Observed shortage event,12.15,Recorded positive production,19,0,1,5
+114,'404,404,Kenya,'S2518,2518,Sorghum and products,2015,2016,1,Observed shortage event,31.62,Recorded positive production,19,0,1,5
+114,'404,404,Kenya,'S2532,2532,Cassava and products,2015,2016,1,Observed shortage event,45.68,Recorded positive production,17,0,3,5
+114,'404,404,Kenya,'S2552,2552,Groundnuts,2015,2016,1,Observed shortage event,12.56,Recorded positive production,17,1,2,5
+122,'426,426,Lesotho,'S2518,2518,Sorghum and products,2015,2016,1,Observed shortage event,22.03,Recorded positive production,18,2,0,5
+130,'454,454,Malawi,'S2511,2511,Wheat and products,2015,2016,1,Observed shortage event,99.59,Recorded positive production,18,1,1,5
+130,'454,454,Malawi,'S2517,2517,Millet and products,2015,2016,1,Observed shortage event,17.81,Recorded positive production,15,2,3,4
+130,'454,454,Malawi,'S2552,2552,Groundnuts,2015,2016,1,Observed shortage event,7.7,Recorded positive production,17,3,0,5
+130,'454,454,Malawi,'S2807,2807,Rice and products,2015,2016,1,Observed shortage event,47.22,Recorded positive production,18,1,1,5
+137,'480,480,Mauritius,'S2514,2514,Maize and products,2015,2016,1,Observed shortage event,29.59,Recorded zero production,19,1,0,5
+144,'508,508,Mozambique,'S2514,2514,Maize and products,2015,2016,1,Observed shortage event,420.55,Recorded positive production,19,1,0,5
+147,'516,516,Namibia,'S2518,2518,Sorghum and products,2015,2016,1,Observed shortage event,14.8,Recorded positive production,18,2,0,5
+158,'562,562,Niger,'S2511,2511,Wheat and products,2015,2016,1,Observed shortage event,27.58,Recorded positive production,17,2,1,5
+158,'562,562,Niger,'S2514,2514,Maize and products,2015,2016,1,Observed shortage event,32.52,Recorded positive production,17,1,2,5
+158,'562,562,Niger,'S2532,2532,Cassava and products,2015,2016,1,Observed shortage event,25.22,Recorded positive production,16,3,1,5
+196,'690,690,Seychelles,'S2552,2552,Groundnuts,2015,2016,1,Observed shortage event,29.58,No production source row,13,7,0,5
+197,'694,694,Sierra Leone,'S2511,2511,Wheat and products,2015,2016,1,Observed shortage event,60.66,No production source row,15,5,0,5
+197,'694,694,Sierra Leone,'S2514,2514,Maize and products,2015,2016,1,Observed shortage event,20.71,Recorded positive production,16,3,1,5
+197,'694,694,Sierra Leone,'S2517,2517,Millet and products,2015,2016,1,Observed shortage event,44.57,Recorded positive production,16,3,1,5
+197,'694,694,Sierra Leone,'S2552,2552,Groundnuts,2015,2016,1,Observed shortage event,46.81,Recorded positive production,16,3,1,5
+226,'800,800,Uganda,'S2514,2514,Maize and products,2015,2016,1,Observed shortage event,471.39,Recorded positive production,19,1,0,5
+226,'800,800,Uganda,'S2517,2517,Millet and products,2015,2016,1,Observed shortage event,35.59,Recorded positive production,18,2,0,5
+226,'800,800,Uganda,'S2518,2518,Sorghum and products,2015,2016,1,Observed shortage event,19.44,Recorded positive production,18,2,0,5
+251,'894,894,Zambia,'S2511,2511,Wheat and products,2015,2016,1,Observed shortage event,104.15,Recorded positive production,19,1,0,5
+251,'894,894,Zambia,'S2807,2807,Rice and products,2015,2016,1,Observed shortage event,21.96,Recorded positive production,18,1,1,5
+20,'072,072,Botswana,'S2518,2518,Sorghum and products,2016,2017,1,Observed shortage event,46.87,Recorded positive production,19,1,0,5
+233,'854,854,Burkina Faso,'S2518,2518,Sorghum and products,2016,2017,1,Observed shortage event,361.43,Recorded positive production,18,2,0,5
+32,'120,120,Cameroon,'S2552,2552,Groundnuts,2016,2017,1,Observed shortage event,135.38,Recorded positive production,17,3,0,5
+209,'748,748,Eswatini,'S2518,2518,Sorghum and products,2016,2017,1,Observed shortage event,29.15,Recorded positive production,18,2,0,5
+209,'748,748,Eswatini,'S2552,2552,Groundnuts,2016,2017,1,Observed shortage event,24.3,Recorded positive production,16,4,0,5
+75,'270,270,Gambia,'S2517,2517,Millet and products,2016,2017,1,Observed shortage event,191.54,Recorded positive production,16,1,3,4
+75,'270,270,Gambia,'S2518,2518,Sorghum and products,2016,2017,1,Observed shortage event,85.17,Recorded positive production,15,2,3,4
+75,'270,270,Gambia,'S2552,2552,Groundnuts,2016,2017,1,Observed shortage event,122.15,Recorded positive production,17,3,0,5
+226,'800,800,Uganda,'S2517,2517,Millet and products,2016,2017,1,Observed shortage event,29.13,Recorded positive production,18,2,0,5
+226,'800,800,Uganda,'S2518,2518,Sorghum and products,2016,2017,1,Observed shortage event,13.69,Recorded positive production,18,2,0,5
+215,'834,834,United Republic of Tanzania,'S2511,2511,Wheat and products,2016,2017,1,Observed shortage event,132.13,Recorded positive production,18,1,1,5
+215,'834,834,United Republic of Tanzania,'S2532,2532,Cassava and products,2016,2017,1,Observed shortage event,211.08,Recorded positive production,17,2,1,5
+181,'716,716,Zimbabwe,'S2511,2511,Wheat and products,2016,2017,1,Observed shortage event,210.71,Recorded positive production,18,2,0,5
+181,'716,716,Zimbabwe,'S2807,2807,Rice and products,2016,2017,1,Observed shortage event,114.56,Recorded positive production,18,2,0,5
+233,'854,854,Burkina Faso,'S2807,2807,Rice and products,2017,2018,1,Observed shortage event,324.55,Recorded positive production,19,1,0,5
+107,'384,384,Côte d'Ivoire,'S2552,2552,Groundnuts,2017,2018,1,Observed shortage event,45.9,Recorded positive production,17,3,0,5
+250,'180,180,Democratic Republic of the Congo,'S2511,2511,Wheat and products,2017,2018,1,Observed shortage event,42.55,Recorded positive production,17,2,1,5
+59,'818,818,Egypt,'S2552,2552,Groundnuts,2017,2018,1,Observed shortage event,14.56,Recorded positive production,18,1,1,5
+209,'748,748,Eswatini,'S2552,2552,Groundnuts,2017,2018,1,Observed shortage event,17.62,Recorded positive production,16,4,0,5
+75,'270,270,Gambia,'S2514,2514,Maize and products,2017,2018,1,Observed shortage event,118.42,Recorded positive production,17,1,2,5
+75,'270,270,Gambia,'S2517,2517,Millet and products,2017,2018,1,Observed shortage event,159.42,Recorded positive production,16,1,3,4
+75,'270,270,Gambia,'S2518,2518,Sorghum and products,2017,2018,1,Observed shortage event,53.28,Recorded positive production,15,2,3,4
+75,'270,270,Gambia,'S2552,2552,Groundnuts,2017,2018,1,Observed shortage event,86.56,Recorded positive production,17,3,0,5
+122,'426,426,Lesotho,'S2518,2518,Sorghum and products,2017,2018,1,Observed shortage event,33.73,Recorded positive production,18,2,0,5
+122,'426,426,Lesotho,'S2807,2807,Rice and products,2017,2018,1,Observed shortage event,102.8,No production source row,14,6,0,5
+123,'430,430,Liberia,'S2511,2511,Wheat and products,2017,2018,1,Observed shortage event,142.9,No production source row,14,6,0,5
+129,'450,450,Madagascar,'S2514,2514,Maize and products,2017,2018,1,Observed shortage event,77.34,Recorded positive production,18,1,1,5
+130,'454,454,Malawi,'S2511,2511,Wheat and products,2017,2018,1,Observed shortage event,78.39,Recorded positive production,18,1,1,5
+144,'508,508,Mozambique,'S2511,2511,Wheat and products,2017,2018,1,Observed shortage event,218.69,Recorded positive production,19,1,0,5
+158,'562,562,Niger,'S2511,2511,Wheat and products,2017,2018,1,Observed shortage event,31.56,Recorded positive production,17,2,1,5
+184,'646,646,Rwanda,'S2511,2511,Wheat and products,2017,2018,1,Observed shortage event,106.0,Recorded positive production,18,1,1,5
+184,'646,646,Rwanda,'S2807,2807,Rice and products,2017,2018,1,Observed shortage event,149.77,Recorded positive production,18,1,1,5
+196,'690,690,Seychelles,'S2552,2552,Groundnuts,2017,2018,1,Observed shortage event,22.02,No production source row,13,7,0,5
+197,'694,694,Sierra Leone,'S2511,2511,Wheat and products,2017,2018,1,Observed shortage event,107.05,No production source row,15,5,0,5
+197,'694,694,Sierra Leone,'S2518,2518,Sorghum and products,2017,2018,1,Observed shortage event,36.18,Recorded positive production,16,3,1,5
+226,'800,800,Uganda,'S2552,2552,Groundnuts,2017,2018,1,Observed shortage event,61.77,Recorded positive production,17,3,0,5
+215,'834,834,United Republic of Tanzania,'S2552,2552,Groundnuts,2017,2018,1,Observed shortage event,116.08,Recorded positive production,18,2,0,5
+251,'894,894,Zambia,'S2511,2511,Wheat and products,2017,2018,1,Observed shortage event,86.92,Recorded positive production,19,1,0,5
+181,'716,716,Zimbabwe,'S2552,2552,Groundnuts,2017,2018,1,Observed shortage event,31.5,Recorded positive production,17,3,0,5
+181,'716,716,Zimbabwe,'S2807,2807,Rice and products,2017,2018,1,Observed shortage event,95.18,Recorded positive production,18,2,0,5
+7,'024,024,Angola,'S2511,2511,Wheat and products,2018,2019,1,Observed shortage event,231.09,Recorded positive production,18,1,1,5
+233,'854,854,Burkina Faso,'S2514,2514,Maize and products,2018,2019,1,Observed shortage event,596.71,Recorded positive production,18,1,1,5
+233,'854,854,Burkina Faso,'S2517,2517,Millet and products,2018,2019,1,Observed shortage event,390.27,Recorded positive production,16,2,2,5
+233,'854,854,Burkina Faso,'S2552,2552,Groundnuts,2018,2019,1,Observed shortage event,166.56,Recorded positive production,17,2,1,5
+35,'132,132,Cabo Verde,'S2514,2514,Maize and products,2018,2019,1,Observed shortage event,562.27,Recorded positive production,17,1,2,5
+35,'132,132,Cabo Verde,'S2532,2532,Cassava and products,2018,2019,1,Observed shortage event,32.06,Recorded positive production,16,3,1,5
+238,'231,231,Ethiopia,'S2552,2552,Groundnuts,2018,2019,1,Observed shortage event,12.86,Recorded positive production,16,3,1,5
+238,'231,231,Ethiopia,'S2807,2807,Rice and products,2018,2019,1,Observed shortage event,61.64,Recorded positive production,17,3,0,5
+75,'270,270,Gambia,'S2518,2518,Sorghum and products,2018,2019,1,Observed shortage event,24.69,Recorded positive production,15,2,3,4
+81,'288,288,Ghana,'S2511,2511,Wheat and products,2018,2019,1,Observed shortage event,137.27,No production source row,16,4,0,5
+175,'624,624,Guinea-Bissau,'S2532,2532,Cassava and products,2018,2019,1,Observed shortage event,85.36,Recorded positive production,14,5,1,5
+122,'426,426,Lesotho,'S2807,2807,Rice and products,2018,2019,1,Observed shortage event,66.33,No production source row,14,6,0,5
+123,'430,430,Liberia,'S2511,2511,Wheat and products,2018,2019,1,Observed shortage event,99.29,No production source row,14,6,0,5
+124,'434,434,Libya,'S2514,2514,Maize and products,2018,2019,1,Observed shortage event,16.92,Recorded positive production,17,3,0,5
+130,'454,454,Malawi,'S2511,2511,Wheat and products,2018,2019,1,Observed shortage event,59.43,Recorded positive production,18,1,1,5
+130,'454,454,Malawi,'S2552,2552,Groundnuts,2018,2019,1,Observed shortage event,15.21,Recorded positive production,17,3,0,5
+130,'454,454,Malawi,'S2807,2807,Rice and products,2018,2019,1,Observed shortage event,38.07,Recorded positive production,18,1,1,5
+136,'478,478,Mauritania,'S2518,2518,Sorghum and products,2018,2019,1,Observed shortage event,124.1,Recorded positive production,15,4,1,4
+147,'516,516,Namibia,'S2517,2517,Millet and products,2018,2019,1,Observed shortage event,149.81,Recorded positive production,16,3,1,5
+147,'516,516,Namibia,'S2518,2518,Sorghum and products,2018,2019,1,Observed shortage event,12.08,Recorded positive production,17,2,1,5
+158,'562,562,Niger,'S2517,2517,Millet and products,2018,2019,1,Observed shortage event,884.1,Recorded positive production,17,2,1,5
+184,'646,646,Rwanda,'S2514,2514,Maize and products,2018,2019,1,Observed shortage event,337.96,Recorded positive production,17,1,2,5
+184,'646,646,Rwanda,'S2552,2552,Groundnuts,2018,2019,1,Observed shortage event,19.2,Recorded positive production,17,3,0,5
+184,'646,646,Rwanda,'S2807,2807,Rice and products,2018,2019,1,Observed shortage event,121.15,Recorded positive production,18,1,1,5
+196,'690,690,Seychelles,'S2807,2807,Rice and products,2018,2019,1,Observed shortage event,464.77,No production source row,15,4,1,5
+197,'694,694,Sierra Leone,'S2532,2532,Cassava and products,2018,2019,1,Observed shortage event,527.39,Recorded positive production,16,4,0,5
+226,'800,800,Uganda,'S2514,2514,Maize and products,2018,2019,1,Observed shortage event,503.5,Recorded positive production,19,1,0,5
+226,'800,800,Uganda,'S2517,2517,Millet and products,2018,2019,1,Observed shortage event,16.19,Recorded positive production,18,2,0,5
+226,'800,800,Uganda,'S2518,2518,Sorghum and products,2018,2019,1,Observed shortage event,8.42,Recorded positive production,18,2,0,5
+226,'800,800,Uganda,'S2532,2532,Cassava and products,2018,2019,1,Observed shortage event,324.34,Recorded positive production,17,2,1,5
+226,'800,800,Uganda,'S2552,2552,Groundnuts,2018,2019,1,Observed shortage event,50.36,Recorded positive production,17,3,0,5
+251,'894,894,Zambia,'S2552,2552,Groundnuts,2018,2019,1,Observed shortage event,77.96,Recorded positive production,17,3,0,5
+251,'894,894,Zambia,'S2807,2807,Rice and products,2018,2019,1,Observed shortage event,23.88,Recorded positive production,18,1,1,5
+181,'716,716,Zimbabwe,'S2552,2552,Groundnuts,2018,2019,1,Observed shortage event,24.95,Recorded positive production,17,3,0,5
+45,'174,174,Comoros,'S2532,2532,Cassava and products,2019,2020,1,Observed shortage event,258.15,Recorded positive production,14,4,2,5
+250,'180,180,Democratic Republic of the Congo,'S2511,2511,Wheat and products,2019,2020,1,Observed shortage event,40.36,Recorded positive production,17,2,1,5
+72,'262,262,Djibouti,'S2514,2514,Maize and products,2019,2020,1,Observed shortage event,28.53,Recorded zero production,16,2,2,5
+72,'262,262,Djibouti,'S2518,2518,Sorghum and products,2019,2020,1,Observed shortage event,21.61,No production source row,13,6,1,5
+59,'818,818,Egypt,'S2518,2518,Sorghum and products,2019,2020,1,Observed shortage event,55.78,Recorded positive production,18,2,0,5
+75,'270,270,Gambia,'S2511,2511,Wheat and products,2019,2020,1,Observed shortage event,270.87,No production source row,14,4,2,5
+81,'288,288,Ghana,'S2552,2552,Groundnuts,2019,2020,1,Observed shortage event,74.23,Recorded positive production,17,3,0,5
+90,'324,324,Guinea,'S2552,2552,Groundnuts,2019,2020,1,Observed shortage event,76.5,Recorded positive production,17,3,0,5
+114,'404,404,Kenya,'S2517,2517,Millet and products,2019,2020,1,Observed shortage event,20.21,Recorded positive production,19,0,1,5
+114,'404,404,Kenya,'S2518,2518,Sorghum and products,2019,2020,1,Observed shortage event,46.86,Recorded positive production,19,0,1,5
+122,'426,426,Lesotho,'S2518,2518,Sorghum and products,2019,2020,1,Observed shortage event,34.19,Recorded positive production,17,2,1,5
+136,'478,478,Mauritania,'S2514,2514,Maize and products,2019,2020,1,Observed shortage event,58.99,Recorded positive production,17,3,0,5
+144,'508,508,Mozambique,'S2517,2517,Millet and products,2019,2020,1,Observed shortage event,10.72,Recorded positive production,16,2,2,5
+158,'562,562,Niger,'S2514,2514,Maize and products,2019,2020,1,Observed shortage event,29.96,Recorded positive production,18,1,1,5
+159,'566,566,Nigeria,'S2535,2535,Yams,2019,2020,1,Observed shortage event,288.8,Recorded positive production,17,2,1,5
+159,'566,566,Nigeria,'S2807,2807,Rice and products,2019,2020,1,Observed shortage event,257.15,Recorded positive production,17,2,1,5
+184,'646,646,Rwanda,'S2511,2511,Wheat and products,2019,2020,1,Observed shortage event,79.21,Recorded positive production,18,1,1,5
+193,'678,678,Sao Tome and Principe,'S2514,2514,Maize and products,2019,2020,1,Observed shortage event,79.28,Recorded positive production,16,2,2,5
+197,'694,694,Sierra Leone,'S2514,2514,Maize and products,2019,2020,1,Observed shortage event,32.12,Recorded positive production,16,3,1,5
+197,'694,694,Sierra Leone,'S2517,2517,Millet and products,2019,2020,1,Observed shortage event,35.02,Recorded positive production,16,3,1,5
+197,'694,694,Sierra Leone,'S2552,2552,Groundnuts,2019,2020,1,Observed shortage event,47.53,Recorded positive production,17,3,0,5
+202,'710,710,South Africa,'S2514,2514,Maize and products,2019,2020,1,Observed shortage event,742.09,Recorded positive production,18,2,0,5
+226,'800,800,Uganda,'S2532,2532,Cassava and products,2019,2020,1,Observed shortage event,203.63,Recorded positive production,17,2,1,5
+215,'834,834,United Republic of Tanzania,'S2511,2511,Wheat and products,2019,2020,1,Observed shortage event,119.28,Recorded positive production,17,1,2,5
+20,'072,072,Botswana,'S2517,2517,Millet and products,2020,2021,1,Observed shortage event,23.93,Recorded positive production,17,2,1,5
+20,'072,072,Botswana,'S2518,2518,Sorghum and products,2020,2021,1,Observed shortage event,79.79,Recorded positive production,19,1,0,5
+233,'854,854,Burkina Faso,'S2517,2517,Millet and products,2020,2021,1,Observed shortage event,273.77,Recorded positive production,17,2,1,5
+32,'120,120,Cameroon,'S2552,2552,Groundnuts,2020,2021,1,Observed shortage event,168.0,Recorded positive production,17,3,0,5
+45,'174,174,Comoros,'S2511,2511,Wheat and products,2020,2021,1,Observed shortage event,186.55,No production source row,14,5,1,5
+46,'178,178,Congo,'S2514,2514,Maize and products,2020,2021,1,Observed shortage event,42.77,Recorded positive production,18,1,1,5
+72,'262,262,Djibouti,'S2514,2514,Maize and products,2020,2021,1,Observed shortage event,11.25,Recorded zero production,16,2,2,5
+59,'818,818,Egypt,'S2518,2518,Sorghum and products,2020,2021,1,Observed shortage event,29.15,Recorded positive production,18,2,0,5
+209,'748,748,Eswatini,'S2511,2511,Wheat and products,2020,2021,1,Observed shortage event,279.57,Recorded positive production,18,1,1,5
+238,'231,231,Ethiopia,'S2552,2552,Groundnuts,2020,2021,1,Observed shortage event,17.02,Recorded positive production,16,3,1,5
+74,'266,266,Gabon,'S2807,2807,Rice and products,2020,2021,1,Observed shortage event,460.29,Recorded positive production,17,2,1,5
+75,'270,270,Gambia,'S2552,2552,Groundnuts,2020,2021,1,Observed shortage event,92.53,Recorded positive production,16,3,1,5
+81,'288,288,Ghana,'S2517,2517,Millet and products,2020,2021,1,Observed shortage event,44.73,Recorded positive production,18,2,0,5
+114,'404,404,Kenya,'S2532,2532,Cassava and products,2020,2021,1,Observed shortage event,55.73,Recorded positive production,19,0,1,5
+122,'426,426,Lesotho,'S2511,2511,Wheat and products,2020,2021,1,Observed shortage event,235.49,Recorded positive production,17,3,0,5
+123,'430,430,Liberia,'S2511,2511,Wheat and products,2020,2021,1,Observed shortage event,80.28,No production source row,14,6,0,5
+130,'454,454,Malawi,'S2511,2511,Wheat and products,2020,2021,1,Observed shortage event,50.55,Recorded positive production,18,1,1,5
+136,'478,478,Mauritania,'S2518,2518,Sorghum and products,2020,2021,1,Observed shortage event,135.9,Recorded positive production,15,4,1,4
+137,'480,480,Mauritius,'S2514,2514,Maize and products,2020,2021,1,Observed shortage event,38.38,Recorded positive production,19,1,0,5
+143,'504,504,Morocco,'S2807,2807,Rice and products,2020,2021,1,Observed shortage event,22.57,Recorded positive production,18,2,0,5
+158,'562,562,Niger,'S2511,2511,Wheat and products,2020,2021,1,Observed shortage event,45.93,Recorded positive production,17,2,1,5
+158,'562,562,Niger,'S2517,2517,Millet and products,2020,2021,1,Observed shortage event,750.26,Recorded positive production,17,2,1,5
+158,'562,562,Niger,'S2518,2518,Sorghum and products,2020,2021,1,Observed shortage event,446.02,Recorded positive production,16,2,2,5
+158,'562,562,Niger,'S2532,2532,Cassava and products,2020,2021,1,Observed shortage event,68.13,Recorded positive production,15,3,2,5
+158,'562,562,Niger,'S2552,2552,Groundnuts,2020,2021,1,Observed shortage event,180.07,Recorded positive production,17,3,0,5
+184,'646,646,Rwanda,'S2552,2552,Groundnuts,2020,2021,1,Observed shortage event,13.47,Recorded positive production,17,3,0,5
+226,'800,800,Uganda,'S2552,2552,Groundnuts,2020,2021,1,Observed shortage event,34.71,Recorded positive production,17,3,0,5
+181,'716,716,Zimbabwe,'S2517,2517,Millet and products,2020,2021,1,Observed shortage event,16.29,Recorded positive production,18,2,0,5
+32,'120,120,Cameroon,'S2552,2552,Groundnuts,2021,2022,1,Observed shortage event,82.76,Recorded positive production,17,3,0,5
+107,'384,384,Côte d'Ivoire,'S2552,2552,Groundnuts,2021,2022,1,Observed shortage event,61.13,Recorded positive production,17,3,0,5
+250,'180,180,Democratic Republic of the Congo,'S2511,2511,Wheat and products,2021,2022,1,Observed shortage event,50.0,Recorded positive production,17,2,1,5
+72,'262,262,Djibouti,'S2552,2552,Groundnuts,2021,2022,1,Observed shortage event,10.87,No production source row,11,8,1,5
+209,'748,748,Eswatini,'S2518,2518,Sorghum and products,2021,2022,1,Observed shortage event,21.17,Recorded positive production,17,2,1,5
+75,'270,270,Gambia,'S2514,2514,Maize and products,2021,2022,1,Observed shortage event,94.36,Recorded positive production,18,1,1,5
+114,'404,404,Kenya,'S2511,2511,Wheat and products,2021,2022,1,Observed shortage event,277.3,Recorded positive production,20,0,0,5
+122,'426,426,Lesotho,'S2518,2518,Sorghum and products,2021,2022,1,Observed shortage event,23.24,Recorded positive production,18,2,0,5
+123,'430,430,Liberia,'S2511,2511,Wheat and products,2021,2022,1,Observed shortage event,55.16,No production source row,14,6,0,5
+124,'434,434,Libya,'S2807,2807,Rice and products,2021,2022,1,Observed shortage event,177.88,Source-present missing production,14,4,2,5
+130,'454,454,Malawi,'S2511,2511,Wheat and products,2021,2022,1,Observed shortage event,41.56,Recorded positive production,19,1,0,5
+144,'508,508,Mozambique,'S2511,2511,Wheat and products,2021,2022,1,Observed shortage event,191.57,Recorded positive production,19,1,0,5
+144,'508,508,Mozambique,'S2552,2552,Groundnuts,2021,2022,1,Observed shortage event,9.86,Recorded positive production,17,3,0,5
+147,'516,516,Namibia,'S2517,2517,Millet and products,2021,2022,1,Observed shortage event,120.1,Recorded positive production,17,3,0,5
+147,'516,516,Namibia,'S2552,2552,Groundnuts,2021,2022,1,Observed shortage event,13.84,Recorded positive production,16,4,0,5
+158,'562,562,Niger,'S2514,2514,Maize and products,2021,2022,1,Observed shortage event,21.2,Recorded positive production,17,1,2,5
+158,'562,562,Niger,'S2807,2807,Rice and products,2021,2022,1,Observed shortage event,401.57,Recorded positive production,17,2,1,5
+196,'690,690,Seychelles,'S2514,2514,Maize and products,2021,2022,1,Observed shortage event,201.65,No production source row,16,3,1,5
+196,'690,690,Seychelles,'S2552,2552,Groundnuts,2021,2022,1,Observed shortage event,37.42,No production source row,13,7,0,5
+197,'694,694,Sierra Leone,'S2511,2511,Wheat and products,2021,2022,1,Observed shortage event,101.19,No production source row,15,5,0,5
+197,'694,694,Sierra Leone,'S2518,2518,Sorghum and products,2021,2022,1,Observed shortage event,46.34,Recorded positive production,15,3,2,4
+226,'800,800,Uganda,'S2807,2807,Rice and products,2021,2022,1,Observed shortage event,141.75,Recorded positive production,18,1,1,5
+215,'834,834,United Republic of Tanzania,'S2518,2518,Sorghum and products,2021,2022,1,Observed shortage event,60.26,Recorded positive production,18,2,0,5
+251,'894,894,Zambia,'S2532,2532,Cassava and products,2021,2022,1,Observed shortage event,574.6,Recorded positive production,16,2,2,5
+181,'716,716,Zimbabwe,'S2518,2518,Sorghum and products,2021,2022,1,Observed shortage event,36.31,Recorded positive production,18,2,0,5
+20,'072,072,Botswana,'S2518,2518,Sorghum and products,2022,2023,1,Observed shortage event,115.75,Recorded positive production,19,1,0,5
+107,'384,384,Côte d'Ivoire,'S2514,2514,Maize and products,2022,2023,1,Observed shortage event,206.24,Recorded positive production,18,1,1,5
+250,'180,180,Democratic Republic of the Congo,'S2552,2552,Groundnuts,2022,2023,1,Observed shortage event,35.91,Recorded positive production,18,2,0,5
+59,'818,818,Egypt,'S2518,2518,Sorghum and products,2022,2023,1,Observed shortage event,45.38,Recorded positive production,18,2,0,5
+75,'270,270,Gambia,'S2552,2552,Groundnuts,2022,2023,1,Observed shortage event,86.71,Recorded positive production,17,3,0,5
+81,'288,288,Ghana,'S2511,2511,Wheat and products,2022,2023,1,Observed shortage event,135.42,No production source row,16,4,0,5
+175,'624,624,Guinea-Bissau,'S2511,2511,Wheat and products,2022,2023,1,Observed shortage event,120.86,No production source row,13,6,1,5
+175,'624,624,Guinea-Bissau,'S2518,2518,Sorghum and products,2022,2023,1,Observed shortage event,79.21,Recorded positive production,16,3,1,4
+123,'430,430,Liberia,'S2511,2511,Wheat and products,2022,2023,1,Observed shortage event,37.33,No production source row,14,6,0,5
+124,'434,434,Libya,'S2511,2511,Wheat and products,2022,2023,1,Observed shortage event,849.48,Recorded positive production,18,2,0,5
+136,'478,478,Mauritania,'S2514,2514,Maize and products,2022,2023,1,Observed shortage event,79.22,Recorded positive production,17,3,0,5
+136,'478,478,Mauritania,'S2518,2518,Sorghum and products,2022,2023,1,Observed shortage event,171.89,Recorded positive production,16,4,0,5
+144,'508,508,Mozambique,'S2518,2518,Sorghum and products,2022,2023,1,Observed shortage event,36.37,Recorded positive production,17,2,1,5
+147,'516,516,Namibia,'S2517,2517,Millet and products,2022,2023,1,Observed shortage event,89.81,Recorded positive production,17,3,0,5
+158,'562,562,Niger,'S2518,2518,Sorghum and products,2022,2023,1,Observed shortage event,461.87,Recorded positive production,16,2,2,5
+159,'566,566,Nigeria,'S2517,2517,Millet and products,2022,2023,1,Observed shortage event,61.05,Recorded positive production,17,2,1,5
+193,'678,678,Sao Tome and Principe,'S2511,2511,Wheat and products,2022,2023,1,Observed shortage event,459.59,No production source row,13,5,2,5
+193,'678,678,Sao Tome and Principe,'S2514,2514,Maize and products,2022,2023,1,Observed shortage event,63.62,Recorded positive production,16,2,2,5
+196,'690,690,Seychelles,'S2807,2807,Rice and products,2022,2023,1,Observed shortage event,339.39,No production source row,15,4,1,5
+197,'694,694,Sierra Leone,'S2511,2511,Wheat and products,2022,2023,1,Observed shortage event,77.56,No production source row,15,5,0,5
+222,'788,788,Tunisia,'S2807,2807,Rice and products,2022,2023,1,Observed shortage event,23.61,No production source row,13,5,2,5
+226,'800,800,Uganda,'S2532,2532,Cassava and products,2022,2023,1,Observed shortage event,159.37,Recorded positive production,17,2,1,5
+226,'800,800,Uganda,'S2552,2552,Groundnuts,2022,2023,1,Observed shortage event,50.6,Recorded positive production,17,3,0,5
+226,'800,800,Uganda,'S2807,2807,Rice and products,2022,2023,1,Observed shortage event,108.62,Recorded positive production,18,1,1,5
+215,'834,834,United Republic of Tanzania,'S2552,2552,Groundnuts,2022,2023,1,Observed shortage event,94.69,Recorded positive production,18,2,0,5
+251,'894,894,Zambia,'S2552,2552,Groundnuts,2022,2023,1,Observed shortage event,97.56,Recorded positive production,17,3,0,5

@@ -1,0 +1,4 @@
+Temporal split,Rows,Positive_events,Predictor_year_start,Predictor_year_end,Target_year_start,Target_year_end,Negative_events,Event_rate_pct
+Test,498,51,2021,2022,2022,2023,447,10.240963855421686
+Train,2250,231,2010,2018,2011,2019,2019,10.266666666666667
+Validation,500,52,2019,2020,2020,2021,448,10.4

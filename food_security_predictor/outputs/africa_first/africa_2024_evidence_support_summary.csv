@@ -1,0 +1,4 @@
+evidence_review_level,Scored_observations,Countries,Formal_warnings,High_warnings,Average_probability,Average_missing_features,Average_non_year_outside_range,Share_of_scored_observations
+Heightened evidence review,53,27,17,3,0.11166232614345824,20.754716981132077,0.9622641509433962,0.21285140562248997
+Limited evidence: priority manual review,1,1,1,0,0.1861626984126985,26.0,3.0,0.004016064257028112
+Within usual historical support,195,41,59,9,0.10757117782520022,6.748717948717949,0.0,0.7831325301204819

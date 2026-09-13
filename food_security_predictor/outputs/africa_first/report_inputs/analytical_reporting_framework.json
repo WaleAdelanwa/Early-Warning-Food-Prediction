@@ -1,0 +1,66 @@
+{
+  "project": "Africa food-supply shortage analytical reports",
+  "report_streams": {
+    "methodology_report": {
+      "purpose": "Explain and defend the data preparation, target construction, feature engineering, model evaluation and operational scoring.",
+      "status": "Integrated methodology report completed"
+    },
+    "continental_analytical_report": {
+      "purpose": "Describe continent-wide historical events, country comparisons, commodity patterns and model-generated forward warnings.",
+      "planned_sections": [
+        "Executive overview",
+        "Scope and definitions",
+        "Continental historical trend, 2011–2023",
+        "Historical country comparison",
+        "Recent country comparison, 2019–2023",
+        "Commodity-level historical analysis",
+        "2024 model-generated warning landscape",
+        "Persistent, emerging and commodity-specific signals",
+        "Evidence quality and limitations",
+        "Country profile directory"
+      ]
+    },
+    "country_reports": {
+      "number_of_reports": 43,
+      "purpose": "Explain each country's historical commodity experience, recent events and model-generated 2024 warnings.",
+      "planned_sections": [
+        "Country evidence summary",
+        "Coverage and commodities assessed",
+        "Historical shortage record, 2011–2023",
+        "Recent experience, 2019–2023",
+        "Commodity-by-commodity history",
+        "2024 model-generated risk register",
+        "Highest-priority commodity signals",
+        "Relevant supply and utilisation trends",
+        "Evidence quality and interpretive cautions"
+      ]
+    },
+    "commodity_reports": {
+      "number_of_reports": 8,
+      "purpose": "Explain each commodity's historical shortage pattern across countries and its forward warning distribution.",
+      "planned_sections": [
+        "Commodity overview",
+        "Historical continental burden",
+        "Annual event pattern",
+        "Countries most affected historically",
+        "Recent country pattern",
+        "2024 model-generated warning register",
+        "Highest-priority country signals",
+        "Data coverage and limitations"
+      ]
+    }
+  },
+  "mandatory_reporting_rules": [
+    "Observed historical events must always be distinguished from model-generated warnings.",
+    "Every rate must be accompanied by its eligible observation denominator.",
+    "Historical, recent, forward-average and forward-peak ranks must remain separate.",
+    "No combined rank may be introduced without an explicitly justified weighting policy.",
+    "Forward probabilities must not be interpreted as national famine or food-insecurity probabilities.",
+    "Limited-evidence warnings must remain visible but must not enter headline rankings.",
+    "A model warning must not be described as an event that definitely occurred or will occur.",
+    "Associations in production, imports, exports or supply must not be presented as causal effects.",
+    "Country comparisons must show both average risk and the highest individual commodity risk.",
+    "Unscored commodities must be reported as unscored, not as zero risk."
+  ],
+  "created_utc": "2026-08-25T14:09:19.617312+00:00"
+}

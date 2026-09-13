@@ -1,0 +1,6 @@
+Feature type,Planned treatment,Why
+Categorical features,One-hot encoding learned from training data,Models require numerical representations of names and categories
+Binary indicators,Retained as 0/1 values,Their existing values already have a direct interpretation
+Ordinary numeric features,Scaling learned from training data where required,Prevents large-unit variables from dominating scale-sensitive models
+Numeric features with missing values,"Imputation learned from training data, with missingness preserved",Validation and test information must not determine replacement values
+Extreme numeric values,Training-derived lower and upper boundaries; raw saved values remain unchanged,Prevents a few unusually large ratios from dominating the model

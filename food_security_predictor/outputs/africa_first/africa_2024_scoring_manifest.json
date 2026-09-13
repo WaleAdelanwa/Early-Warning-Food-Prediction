@@ -1,0 +1,86 @@
+{
+  "project": "Africa-first food-supply shortage predictor",
+  "output_type": "Prospective early-warning risk register",
+  "predictor_year": 2023,
+  "target_year": 2024,
+  "important_interpretation": "These are model-generated early-warning estimates, not observed 2024 shortage events.",
+  "source_grid": {
+    "observations": 344,
+    "countries": 43,
+    "commodities": 8
+  },
+  "prospective_eligibility": {
+    "rule": "The 2023 food-supply calorie value must be recorded and at least 5 kcal/person/day.",
+    "scored_observations": 249,
+    "unscored_observations": 95,
+    "minimum_current_kcal_capita_day": 5.0,
+    "future_2024_outcome_required": false
+  },
+  "model": {
+    "file": "africa_shortage_operational_model_2010_2022.pkl",
+    "file_signature_sha256": "64caec3e820eb9f27dc20de211e4d28127323ee57d4521201ced9a1019a3b268",
+    "raw_features": 129,
+    "probability_threshold": 0.13,
+    "model_design_changed": false,
+    "threshold_changed": false
+  },
+  "feature_reconstruction": {
+    "historical_cells_compared": 418992,
+    "historical_mismatched_cells": 0,
+    "percentage_change_denominator": "Absolute previous value",
+    "rolling_window_years": 3,
+    "rolling_window_includes_current_year": true,
+    "rolling_minimum_recorded_years": 2,
+    "rolling_standard_deviation_ddof": 0,
+    "per_person_quantity_multiplier": 1000000,
+    "population_logarithm": "Natural logarithm plus one",
+    "eligible_negative_domestic_supply_rows": 0
+  },
+  "risk_results": {
+    "watch_or_higher": 156,
+    "formal_warnings": 77,
+    "high_warnings": 12,
+    "mean_probability": 0.10875761309208846,
+    "median_probability": 0.08000555555555557,
+    "maximum_probability": 0.619498629148629
+  },
+  "distribution_audit": {
+    "locked_test_observations": 498,
+    "forward_scored_observations": 249,
+    "locked_test_warning_share": 0.3192771084337349,
+    "forward_warning_share": 0.3092369477911647,
+    "risk_band_population_stability_index": 0.03160472960816699,
+    "psi_interpretation": "Descriptive distribution-shift diagnostic; not predictive accuracy"
+  },
+  "evidence_review": {
+    "historical_missing_feature_median": 9.0,
+    "historical_missing_feature_q75": 19.0,
+    "historical_missing_feature_q95": 73.0,
+    "within_usual_support": 195,
+    "heightened_review": 53,
+    "limited_evidence": 1
+  },
+  "headline_ranking_policy": {
+    "eligible_observations": 248,
+    "limited_evidence_excluded": true,
+    "excluded_warning_retained_in_full_register": true,
+    "single_raw_warning_count_is_not_a_fair_ranking": true
+  },
+  "reported_model_evaluation": {
+    "must_use_locked_test_results": true,
+    "operational_refit_scores_are_not_new_test_results": true
+  },
+  "saved_file_signatures_sha256": {
+    "africa_operational_shortage_features_2023.parquet": "4ca18693b38450c2ad0110d187f7a8d88e165d41f63a0550d7d214ca2d5a07d3",
+    "africa_2024_shortage_risk_register.parquet": "2bb0e2c34dbce1d16abd61ef0eb8bb5db595c66cf05df3d44d7fadf7b40b3fc7",
+    "africa_2024_shortage_risk_register.csv": "8b77939aad60cd2294bcaade03a4c70eee888f6c897c132ff45e8d6c56c0e8d1",
+    "africa_2024_formal_warning_register.csv": "81548927e3b99bd0c03fdb198ed7222d8f3961636c00a7f6fc7e0edb89f56ad6",
+    "africa_2024_high_warning_register.csv": "844ceb016762ec1a01cdcc55c78b8e569688708d21df063ed765e638356e9eb1",
+    "africa_2024_scoring_eligibility_summary.csv": "273434a65e296526c81be3c8b145969c9acc940fe99f9a2dd2237a67ef874b96",
+    "africa_2024_risk_band_summary.csv": "48ff8449c1f0ff16bc200a0970b62c9e8cfb8375ce8d1cd3eb9b07b4b0172183",
+    "africa_2024_locked_test_distribution_comparison.csv": "2a34d4d5e5b8d910717de9225116f7b717960a9e041c422f810be948579d3686",
+    "africa_2024_evidence_support_summary.csv": "4a21d572cb730e2f32bf4533e80ca52440c9261a2836e6c279cc1dac7d3b3bc9",
+    "africa_2024_scoring_decision_record.csv": "9531eeac716410804c8f2c05df3d0031f130bf090fa89c1e928931202c4618d5"
+  },
+  "created_utc": "2026-08-25T13:46:32.042057+00:00"
+}

@@ -1,0 +1,16 @@
+Result,Value
+Operational training rows,3248.0
+Raw predictors,129.0
+Countries,43.0
+Commodities,8.0
+Country-commodity pairs,260.0
+Predictor year start,2010.0
+Predictor year end,2022.0
+Outcome year start,2011.0
+Outcome year end,2023.0
+Positive shortage events,334.0
+Negative outcomes,2914.0
+Event rate %,10.283251231527094
+Missing target values,0.0
+Duplicate country-commodity-year keys,0.0
+Locked probability threshold,0.13

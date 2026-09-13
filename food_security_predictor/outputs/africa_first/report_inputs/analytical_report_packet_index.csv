@@ -1,0 +1,52 @@
+Packet type,Entity,File,Path,Historical events,Forward scored commodities,Forward formal warnings
+Country,Algeria,country_algeria_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_algeria_evidence.json,0,3,1
+Country,Angola,country_angola_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_angola_evidence.json,3,6,1
+Country,Botswana,country_botswana_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_botswana_evidence.json,8,5,1
+Country,Burkina Faso,country_burkina_faso_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_burkina_faso_evidence.json,9,6,1
+Country,Cabo Verde,country_cabo_verde_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_cabo_verde_evidence.json,7,5,0
+Country,Cameroon,country_cameroon_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_cameroon_evidence.json,3,8,0
+Country,Comoros,country_comoros_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_comoros_evidence.json,2,6,2
+Country,Congo,country_congo_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_congo_evidence.json,5,6,2
+Country,Côte d'Ivoire,country_cote_d_ivoire_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_cote_d_ivoire_evidence.json,3,8,1
+Country,Democratic Republic of the Congo,country_democratic_republic_of_the_congo_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_democratic_republic_of_the_congo_evidence.json,5,5,2
+Country,Djibouti,country_djibouti_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_djibouti_evidence.json,6,5,1
+Country,Egypt,country_egypt_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_egypt_evidence.json,5,5,1
+Country,Eswatini,country_eswatini_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_eswatini_evidence.json,10,5,2
+Country,Ethiopia,country_ethiopia_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_ethiopia_evidence.json,4,6,0
+Country,Gabon,country_gabon_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_gabon_evidence.json,2,6,1
+Country,Gambia,country_gambia_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_gambia_evidence.json,18,7,3
+Country,Ghana,country_ghana_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_ghana_evidence.json,8,8,2
+Country,Guinea,country_guinea_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_guinea_evidence.json,3,7,1
+Country,Guinea-Bissau,country_guinea_bissau_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_guinea_bissau_evidence.json,8,7,2
+Country,Kenya,country_kenya_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_kenya_evidence.json,13,7,3
+Country,Lesotho,country_lesotho_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_lesotho_evidence.json,12,4,3
+Country,Liberia,country_liberia_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_liberia_evidence.json,6,5,1
+Country,Libya,country_libya_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_libya_evidence.json,4,4,3
+Country,Madagascar,country_madagascar_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_madagascar_evidence.json,2,4,0
+Country,Malawi,country_malawi_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_malawi_evidence.json,16,7,4
+Country,Mauritania,country_mauritania_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_mauritania_evidence.json,11,5,2
+Country,Mauritius,country_mauritius_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_mauritius_evidence.json,4,5,3
+Country,Morocco,country_morocco_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_morocco_evidence.json,3,3,0
+Country,Mozambique,country_mozambique_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_mozambique_evidence.json,11,5,0
+Country,Namibia,country_namibia_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_namibia_evidence.json,7,6,2
+Country,Niger,country_niger_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_niger_evidence.json,21,7,3
+Country,Nigeria,country_nigeria_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_nigeria_evidence.json,8,8,2
+Country,Rwanda,country_rwanda_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_rwanda_evidence.json,11,7,2
+Country,Sao Tome and Principe,country_sao_tome_and_principe_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_sao_tome_and_principe_evidence.json,5,5,1
+Country,Senegal,country_senegal_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_senegal_evidence.json,7,8,2
+Country,Seychelles,country_seychelles_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_seychelles_evidence.json,10,4,3
+Country,Sierra Leone,country_sierra_leone_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_sierra_leone_evidence.json,16,7,4
+Country,South Africa,country_south_africa_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_south_africa_evidence.json,2,5,1
+Country,Tunisia,country_tunisia_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_tunisia_evidence.json,1,2,0
+Country,Uganda,country_uganda_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_uganda_evidence.json,21,7,5
+Country,United Republic of Tanzania,country_united_republic_of_tanzania_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_united_republic_of_tanzania_evidence.json,9,7,3
+Country,Zambia,country_zambia_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_zambia_evidence.json,11,6,2
+Country,Zimbabwe,country_zimbabwe_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/countries/country_zimbabwe_evidence.json,14,7,4
+Commodity,Wheat and products,commodity_2511_wheat_and_products_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/commodities/commodity_2511_wheat_and_products_evidence.json,57,43,16
+Commodity,Maize and products,commodity_2514_maize_and_products_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/commodities/commodity_2514_maize_and_products_evidence.json,51,41,8
+Commodity,Millet and products,commodity_2517_millet_and_products_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/commodities/commodity_2517_millet_and_products_evidence.json,34,21,7
+Commodity,Sorghum and products,commodity_2518_sorghum_and_products_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/commodities/commodity_2518_sorghum_and_products_evidence.json,59,26,9
+Commodity,Cassava and products,commodity_2532_cassava_and_products_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/commodities/commodity_2532_cassava_and_products_evidence.json,24,28,6
+Commodity,Yams,commodity_2535_yams_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/commodities/commodity_2535_yams_evidence.json,3,12,1
+Commodity,Groundnuts,commodity_2552_groundnuts_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/commodities/commodity_2552_groundnuts_evidence.json,64,35,20
+Commodity,Rice and products,commodity_2807_rice_and_products_evidence.json,/Users/adewale/Documents/food_security_predictor/outputs/africa_first/report_inputs/commodities/commodity_2807_rice_and_products_evidence.json,42,43,10

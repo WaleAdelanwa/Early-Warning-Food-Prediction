@@ -1,0 +1,261 @@
+Area,Item Code,Item,Eligible_observations,Shortage_events,First_outcome_year,Last_outcome_year,Commodity_event_rate,Commodity_had_shortage,Commodity_had_recurrent_shortages
+Algeria,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+Algeria,2514,Maize and products,13,0,2011,2023,0.0,False,False
+Algeria,2552,Groundnuts,1,0,2011,2011,0.0,False,False
+Algeria,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Angola,2511,Wheat and products,13,1,2011,2023,0.07692307692307693,True,False
+Angola,2514,Maize and products,13,0,2011,2023,0.0,False,False
+Angola,2517,Millet and products,12,1,2011,2023,0.08333333333333333,True,False
+Angola,2532,Cassava and products,13,1,2011,2023,0.07692307692307693,True,False
+Angola,2552,Groundnuts,13,0,2011,2023,0.0,False,False
+Angola,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Botswana,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+Botswana,2514,Maize and products,13,0,2011,2023,0.0,False,False
+Botswana,2517,Millet and products,8,2,2011,2022,0.25,True,True
+Botswana,2518,Sorghum and products,13,5,2011,2023,0.38461538461538464,True,True
+Botswana,2552,Groundnuts,13,0,2011,2023,0.0,False,False
+Botswana,2807,Rice and products,13,1,2011,2023,0.07692307692307693,True,False
+Burkina Faso,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+Burkina Faso,2514,Maize and products,13,1,2011,2023,0.07692307692307693,True,False
+Burkina Faso,2517,Millet and products,13,3,2011,2023,0.23076923076923078,True,True
+Burkina Faso,2518,Sorghum and products,13,2,2011,2023,0.15384615384615385,True,True
+Burkina Faso,2535,Yams,9,1,2011,2022,0.1111111111111111,True,False
+Burkina Faso,2552,Groundnuts,13,1,2011,2023,0.07692307692307693,True,False
+Burkina Faso,2807,Rice and products,13,1,2011,2023,0.07692307692307693,True,False
+Cabo Verde,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+Cabo Verde,2514,Maize and products,13,1,2011,2023,0.07692307692307693,True,False
+Cabo Verde,2532,Cassava and products,13,3,2011,2023,0.23076923076923078,True,True
+Cabo Verde,2552,Groundnuts,12,0,2012,2023,0.0,False,False
+Cabo Verde,2807,Rice and products,13,3,2011,2023,0.23076923076923078,True,True
+Cameroon,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+Cameroon,2514,Maize and products,13,0,2011,2023,0.0,False,False
+Cameroon,2517,Millet and products,13,0,2011,2023,0.0,False,False
+Cameroon,2518,Sorghum and products,13,0,2011,2023,0.0,False,False
+Cameroon,2532,Cassava and products,13,0,2011,2023,0.0,False,False
+Cameroon,2535,Yams,13,0,2011,2023,0.0,False,False
+Cameroon,2552,Groundnuts,13,3,2011,2023,0.23076923076923078,True,True
+Cameroon,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Comoros,2511,Wheat and products,13,1,2011,2023,0.07692307692307693,True,False
+Comoros,2514,Maize and products,13,0,2011,2023,0.0,False,False
+Comoros,2532,Cassava and products,13,1,2011,2023,0.07692307692307693,True,False
+Comoros,2535,Yams,13,0,2011,2023,0.0,False,False
+Comoros,2552,Groundnuts,13,0,2011,2023,0.0,False,False
+Comoros,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Congo,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+Congo,2514,Maize and products,13,3,2011,2023,0.23076923076923078,True,True
+Congo,2532,Cassava and products,13,0,2011,2023,0.0,False,False
+Congo,2535,Yams,13,0,2011,2023,0.0,False,False
+Congo,2552,Groundnuts,13,0,2011,2023,0.0,False,False
+Congo,2807,Rice and products,13,2,2011,2023,0.15384615384615385,True,True
+Côte d'Ivoire,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+Côte d'Ivoire,2514,Maize and products,13,1,2011,2023,0.07692307692307693,True,False
+Côte d'Ivoire,2517,Millet and products,13,0,2011,2023,0.0,False,False
+Côte d'Ivoire,2518,Sorghum and products,13,0,2011,2023,0.0,False,False
+Côte d'Ivoire,2532,Cassava and products,13,0,2011,2023,0.0,False,False
+Côte d'Ivoire,2535,Yams,13,0,2011,2023,0.0,False,False
+Côte d'Ivoire,2552,Groundnuts,13,2,2011,2023,0.15384615384615385,True,True
+Côte d'Ivoire,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Democratic Republic of the Congo,2511,Wheat and products,13,4,2011,2023,0.3076923076923077,True,True
+Democratic Republic of the Congo,2514,Maize and products,13,0,2011,2023,0.0,False,False
+Democratic Republic of the Congo,2532,Cassava and products,13,0,2011,2023,0.0,False,False
+Democratic Republic of the Congo,2552,Groundnuts,13,1,2011,2023,0.07692307692307693,True,False
+Democratic Republic of the Congo,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Djibouti,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+Djibouti,2514,Maize and products,6,3,2013,2023,0.5,True,True
+Djibouti,2518,Sorghum and products,9,1,2013,2021,0.1111111111111111,True,False
+Djibouti,2552,Groundnuts,4,2,2012,2022,0.5,True,True
+Djibouti,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Egypt,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+Egypt,2514,Maize and products,13,0,2011,2023,0.0,False,False
+Egypt,2518,Sorghum and products,13,3,2011,2023,0.23076923076923078,True,True
+Egypt,2552,Groundnuts,13,2,2011,2023,0.15384615384615385,True,True
+Egypt,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Eswatini,2511,Wheat and products,13,1,2011,2023,0.07692307692307693,True,False
+Eswatini,2514,Maize and products,13,0,2011,2023,0.0,False,False
+Eswatini,2518,Sorghum and products,13,3,2011,2023,0.23076923076923078,True,True
+Eswatini,2552,Groundnuts,13,4,2011,2023,0.3076923076923077,True,True
+Eswatini,2807,Rice and products,13,2,2011,2023,0.15384615384615385,True,True
+Ethiopia,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+Ethiopia,2514,Maize and products,13,0,2011,2023,0.0,False,False
+Ethiopia,2517,Millet and products,13,0,2011,2023,0.0,False,False
+Ethiopia,2518,Sorghum and products,13,0,2011,2023,0.0,False,False
+Ethiopia,2535,Yams,3,1,2011,2013,0.3333333333333333,True,False
+Ethiopia,2552,Groundnuts,12,2,2011,2023,0.16666666666666666,True,True
+Ethiopia,2807,Rice and products,13,1,2011,2023,0.07692307692307693,True,False
+Gabon,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+Gabon,2514,Maize and products,13,0,2011,2023,0.0,False,False
+Gabon,2532,Cassava and products,13,0,2011,2023,0.0,False,False
+Gabon,2535,Yams,13,0,2011,2023,0.0,False,False
+Gabon,2552,Groundnuts,13,0,2011,2023,0.0,False,False
+Gabon,2807,Rice and products,13,2,2011,2023,0.15384615384615385,True,True
+Gambia,2511,Wheat and products,13,1,2011,2023,0.07692307692307693,True,False
+Gambia,2514,Maize and products,13,4,2011,2023,0.3076923076923077,True,True
+Gambia,2517,Millet and products,13,4,2011,2023,0.3076923076923077,True,True
+Gambia,2518,Sorghum and products,13,4,2011,2023,0.3076923076923077,True,True
+Gambia,2532,Cassava and products,13,0,2011,2023,0.0,False,False
+Gambia,2552,Groundnuts,13,5,2011,2023,0.38461538461538464,True,True
+Gambia,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Ghana,2511,Wheat and products,13,2,2011,2023,0.15384615384615385,True,True
+Ghana,2514,Maize and products,13,1,2011,2023,0.07692307692307693,True,False
+Ghana,2517,Millet and products,13,3,2011,2023,0.23076923076923078,True,True
+Ghana,2518,Sorghum and products,13,0,2011,2023,0.0,False,False
+Ghana,2532,Cassava and products,13,0,2011,2023,0.0,False,False
+Ghana,2535,Yams,13,0,2011,2023,0.0,False,False
+Ghana,2552,Groundnuts,13,2,2011,2023,0.15384615384615385,True,True
+Ghana,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Guinea,2511,Wheat and products,13,1,2011,2023,0.07692307692307693,True,False
+Guinea,2514,Maize and products,13,0,2011,2023,0.0,False,False
+Guinea,2517,Millet and products,13,0,2011,2023,0.0,False,False
+Guinea,2532,Cassava and products,13,0,2011,2023,0.0,False,False
+Guinea,2535,Yams,13,0,2011,2023,0.0,False,False
+Guinea,2552,Groundnuts,13,2,2011,2023,0.15384615384615385,True,True
+Guinea,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Guinea-Bissau,2511,Wheat and products,13,1,2011,2023,0.07692307692307693,True,False
+Guinea-Bissau,2514,Maize and products,13,1,2011,2023,0.07692307692307693,True,False
+Guinea-Bissau,2517,Millet and products,13,1,2011,2023,0.07692307692307693,True,False
+Guinea-Bissau,2518,Sorghum and products,13,2,2011,2023,0.15384615384615385,True,True
+Guinea-Bissau,2532,Cassava and products,13,2,2011,2023,0.15384615384615385,True,True
+Guinea-Bissau,2552,Groundnuts,13,0,2011,2023,0.0,False,False
+Guinea-Bissau,2807,Rice and products,13,1,2011,2023,0.07692307692307693,True,False
+Kenya,2511,Wheat and products,13,2,2011,2023,0.15384615384615385,True,True
+Kenya,2514,Maize and products,13,0,2011,2023,0.0,False,False
+Kenya,2517,Millet and products,13,2,2011,2023,0.15384615384615385,True,True
+Kenya,2518,Sorghum and products,13,2,2011,2023,0.15384615384615385,True,True
+Kenya,2532,Cassava and products,13,3,2011,2023,0.23076923076923078,True,True
+Kenya,2552,Groundnuts,12,2,2011,2023,0.16666666666666666,True,True
+Kenya,2807,Rice and products,13,2,2011,2023,0.15384615384615385,True,True
+Lesotho,2511,Wheat and products,13,2,2011,2023,0.15384615384615385,True,True
+Lesotho,2514,Maize and products,13,0,2011,2023,0.0,False,False
+Lesotho,2518,Sorghum and products,13,6,2011,2023,0.46153846153846156,True,True
+Lesotho,2552,Groundnuts,5,0,2018,2023,0.0,False,False
+Lesotho,2807,Rice and products,13,4,2011,2023,0.3076923076923077,True,True
+Liberia,2511,Wheat and products,13,6,2011,2023,0.46153846153846156,True,True
+Liberia,2514,Maize and products,2,0,2012,2013,0.0,False,False
+Liberia,2532,Cassava and products,13,0,2011,2023,0.0,False,False
+Liberia,2535,Yams,13,0,2011,2023,0.0,False,False
+Liberia,2552,Groundnuts,13,0,2011,2023,0.0,False,False
+Liberia,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Libya,2511,Wheat and products,13,1,2011,2023,0.07692307692307693,True,False
+Libya,2514,Maize and products,13,2,2011,2023,0.15384615384615385,True,True
+Libya,2552,Groundnuts,13,0,2011,2023,0.0,False,False
+Libya,2807,Rice and products,13,1,2011,2023,0.07692307692307693,True,False
+Madagascar,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+Madagascar,2514,Maize and products,13,1,2011,2023,0.07692307692307693,True,False
+Madagascar,2532,Cassava and products,13,1,2011,2023,0.07692307692307693,True,False
+Madagascar,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Malawi,2511,Wheat and products,13,7,2011,2023,0.5384615384615384,True,True
+Malawi,2514,Maize and products,13,0,2011,2023,0.0,False,False
+Malawi,2517,Millet and products,13,1,2011,2023,0.07692307692307693,True,False
+Malawi,2518,Sorghum and products,13,2,2011,2023,0.15384615384615385,True,True
+Malawi,2532,Cassava and products,13,0,2011,2023,0.0,False,False
+Malawi,2552,Groundnuts,5,4,2011,2023,0.8,True,True
+Malawi,2807,Rice and products,13,2,2011,2023,0.15384615384615385,True,True
+Mauritania,2511,Wheat and products,13,1,2011,2023,0.07692307692307693,True,False
+Mauritania,2514,Maize and products,13,4,2011,2023,0.3076923076923077,True,True
+Mauritania,2517,Millet and products,4,0,2011,2023,0.0,False,False
+Mauritania,2518,Sorghum and products,13,6,2011,2023,0.46153846153846156,True,True
+Mauritania,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Mauritius,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+Mauritius,2514,Maize and products,13,3,2011,2023,0.23076923076923078,True,True
+Mauritius,2552,Groundnuts,13,0,2011,2023,0.0,False,False
+Mauritius,2807,Rice and products,13,1,2011,2023,0.07692307692307693,True,False
+Morocco,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+Morocco,2514,Maize and products,13,1,2011,2023,0.07692307692307693,True,False
+Morocco,2807,Rice and products,13,2,2011,2023,0.15384615384615385,True,True
+Mozambique,2511,Wheat and products,13,2,2011,2023,0.15384615384615385,True,True
+Mozambique,2514,Maize and products,13,2,2011,2023,0.15384615384615385,True,True
+Mozambique,2517,Millet and products,12,2,2011,2023,0.16666666666666666,True,True
+Mozambique,2518,Sorghum and products,13,2,2011,2023,0.15384615384615385,True,True
+Mozambique,2532,Cassava and products,13,1,2011,2023,0.07692307692307693,True,False
+Mozambique,2552,Groundnuts,12,2,2011,2022,0.16666666666666666,True,True
+Mozambique,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Namibia,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+Namibia,2514,Maize and products,13,0,2011,2023,0.0,False,False
+Namibia,2517,Millet and products,13,3,2011,2023,0.23076923076923078,True,True
+Namibia,2518,Sorghum and products,13,2,2011,2023,0.15384615384615385,True,True
+Namibia,2552,Groundnuts,11,1,2013,2023,0.09090909090909091,True,False
+Namibia,2807,Rice and products,13,1,2011,2023,0.07692307692307693,True,False
+Niger,2511,Wheat and products,13,5,2011,2023,0.38461538461538464,True,True
+Niger,2514,Maize and products,13,5,2011,2023,0.38461538461538464,True,True
+Niger,2517,Millet and products,13,2,2011,2023,0.15384615384615385,True,True
+Niger,2518,Sorghum and products,13,3,2011,2023,0.23076923076923078,True,True
+Niger,2532,Cassava and products,13,3,2011,2023,0.23076923076923078,True,True
+Niger,2552,Groundnuts,13,2,2011,2023,0.15384615384615385,True,True
+Niger,2807,Rice and products,13,1,2011,2023,0.07692307692307693,True,False
+Nigeria,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+Nigeria,2514,Maize and products,13,0,2011,2023,0.0,False,False
+Nigeria,2517,Millet and products,13,2,2011,2023,0.15384615384615385,True,True
+Nigeria,2518,Sorghum and products,13,0,2011,2023,0.0,False,False
+Nigeria,2532,Cassava and products,13,0,2011,2023,0.0,False,False
+Nigeria,2535,Yams,13,1,2011,2023,0.07692307692307693,True,False
+Nigeria,2552,Groundnuts,13,3,2011,2023,0.23076923076923078,True,True
+Nigeria,2807,Rice and products,13,2,2011,2023,0.15384615384615385,True,True
+Rwanda,2511,Wheat and products,13,4,2011,2023,0.3076923076923077,True,True
+Rwanda,2514,Maize and products,13,2,2011,2023,0.15384615384615385,True,True
+Rwanda,2518,Sorghum and products,13,0,2011,2023,0.0,False,False
+Rwanda,2532,Cassava and products,13,0,2011,2023,0.0,False,False
+Rwanda,2535,Yams,13,0,2011,2023,0.0,False,False
+Rwanda,2552,Groundnuts,13,2,2011,2023,0.15384615384615385,True,True
+Rwanda,2807,Rice and products,13,3,2011,2023,0.23076923076923078,True,True
+Sao Tome and Principe,2511,Wheat and products,13,1,2011,2023,0.07692307692307693,True,False
+Sao Tome and Principe,2514,Maize and products,13,3,2011,2023,0.23076923076923078,True,True
+Sao Tome and Principe,2532,Cassava and products,13,1,2011,2023,0.07692307692307693,True,False
+Sao Tome and Principe,2535,Yams,13,0,2011,2023,0.0,False,False
+Sao Tome and Principe,2552,Groundnuts,1,0,2021,2021,0.0,False,False
+Sao Tome and Principe,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Senegal,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+Senegal,2514,Maize and products,13,2,2011,2023,0.15384615384615385,True,True
+Senegal,2517,Millet and products,13,0,2011,2023,0.0,False,False
+Senegal,2518,Sorghum and products,13,2,2011,2023,0.15384615384615385,True,True
+Senegal,2532,Cassava and products,13,1,2011,2023,0.07692307692307693,True,False
+Senegal,2535,Yams,8,0,2016,2023,0.0,False,False
+Senegal,2552,Groundnuts,13,2,2011,2023,0.15384615384615385,True,True
+Senegal,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Seychelles,2511,Wheat and products,13,1,2011,2023,0.07692307692307693,True,False
+Seychelles,2514,Maize and products,13,4,2011,2023,0.3076923076923077,True,True
+Seychelles,2532,Cassava and products,11,0,2011,2022,0.0,False,False
+Seychelles,2552,Groundnuts,13,3,2011,2023,0.23076923076923078,True,True
+Seychelles,2807,Rice and products,13,2,2011,2023,0.15384615384615385,True,True
+Sierra Leone,2511,Wheat and products,13,4,2011,2023,0.3076923076923077,True,True
+Sierra Leone,2514,Maize and products,13,4,2011,2023,0.3076923076923077,True,True
+Sierra Leone,2517,Millet and products,13,2,2011,2023,0.15384615384615385,True,True
+Sierra Leone,2518,Sorghum and products,13,2,2011,2023,0.15384615384615385,True,True
+Sierra Leone,2532,Cassava and products,13,1,2011,2023,0.07692307692307693,True,False
+Sierra Leone,2552,Groundnuts,13,3,2011,2023,0.23076923076923078,True,True
+Sierra Leone,2807,Rice and products,13,0,2011,2023,0.0,False,False
+South Africa,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+South Africa,2514,Maize and products,13,1,2011,2023,0.07692307692307693,True,False
+South Africa,2518,Sorghum and products,9,1,2012,2022,0.1111111111111111,True,False
+South Africa,2552,Groundnuts,12,0,2012,2023,0.0,False,False
+South Africa,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Tunisia,2511,Wheat and products,13,0,2011,2023,0.0,False,False
+Tunisia,2552,Groundnuts,13,0,2011,2023,0.0,False,False
+Tunisia,2807,Rice and products,13,1,2011,2023,0.07692307692307693,True,False
+Uganda,2511,Wheat and products,13,1,2011,2023,0.07692307692307693,True,False
+Uganda,2514,Maize and products,13,2,2011,2023,0.15384615384615385,True,True
+Uganda,2517,Millet and products,13,3,2011,2023,0.23076923076923078,True,True
+Uganda,2518,Sorghum and products,11,5,2011,2023,0.45454545454545453,True,True
+Uganda,2532,Cassava and products,13,3,2011,2023,0.23076923076923078,True,True
+Uganda,2552,Groundnuts,13,4,2011,2023,0.3076923076923077,True,True
+Uganda,2807,Rice and products,13,3,2011,2023,0.23076923076923078,True,True
+United Republic of Tanzania,2511,Wheat and products,13,3,2011,2023,0.23076923076923078,True,True
+United Republic of Tanzania,2514,Maize and products,13,0,2011,2023,0.0,False,False
+United Republic of Tanzania,2517,Millet and products,13,1,2011,2023,0.07692307692307693,True,False
+United Republic of Tanzania,2518,Sorghum and products,13,2,2011,2023,0.15384615384615385,True,True
+United Republic of Tanzania,2532,Cassava and products,13,1,2011,2023,0.07692307692307693,True,False
+United Republic of Tanzania,2552,Groundnuts,13,2,2011,2023,0.15384615384615385,True,True
+United Republic of Tanzania,2807,Rice and products,13,0,2011,2023,0.0,False,False
+Zambia,2511,Wheat and products,13,4,2011,2023,0.3076923076923077,True,True
+Zambia,2514,Maize and products,13,0,2011,2023,0.0,False,False
+Zambia,2517,Millet and products,10,0,2011,2022,0.0,False,False
+Zambia,2518,Sorghum and products,5,0,2011,2022,0.0,False,False
+Zambia,2532,Cassava and products,13,2,2011,2023,0.15384615384615385,True,True
+Zambia,2552,Groundnuts,13,3,2011,2023,0.23076923076923078,True,True
+Zambia,2807,Rice and products,13,2,2011,2023,0.15384615384615385,True,True
+Zimbabwe,2511,Wheat and products,13,1,2011,2023,0.07692307692307693,True,False
+Zimbabwe,2514,Maize and products,13,0,2011,2023,0.0,False,False
+Zimbabwe,2517,Millet and products,13,2,2011,2023,0.15384615384615385,True,True
+Zimbabwe,2518,Sorghum and products,13,4,2011,2023,0.3076923076923077,True,True
+Zimbabwe,2532,Cassava and products,13,0,2011,2023,0.0,False,False
+Zimbabwe,2552,Groundnuts,13,5,2011,2023,0.38461538461538464,True,True
+Zimbabwe,2807,Rice and products,13,2,2011,2023,0.15384615384615385,True,True

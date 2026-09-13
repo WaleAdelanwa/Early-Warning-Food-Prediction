@@ -1,0 +1,22 @@
+Decision component,Decision
+Model family,Random forest
+Trees,500
+Maximum depth,Unlimited
+Minimum observations per leaf,3
+Class weighting,None
+Final probability threshold,0.13
+Threshold evidence,Out-of-time development predictions from 2015–2020
+Threshold selection rule,Highest precision among thresholds within 99% of the maximum pooled development F2
+Development predictor years,2010–2020
+Final test predictor years,2021–2022
+Final test outcome years,2022–2023
+Final predictors,129
+Test observations,498
+Test shortages,51
+Test warnings,159
+Test shortages detected,33
+Test shortages missed,18
+Test false warnings,126
+Model changed after test,False
+Threshold changed after test,False
+Intended use,Early-warning screening and prioritisation; not an automatic shortage declaration

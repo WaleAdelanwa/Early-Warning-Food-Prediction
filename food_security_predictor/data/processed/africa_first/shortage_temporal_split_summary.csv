@@ -1,0 +1,4 @@
+Temporal split,Predictor_year_start,Predictor_year_end,Target_year_start,Target_year_end,Eligible_rows,Positive_events,Negative_events,Event rate %,Non-event to event ratio,Countries,Commodities,Country_commodity_pairs
+Train,2010,2018,2011.0,2019.0,2250,231,2019,10.27,8.74,43,8,259
+Validation,2019,2020,2020.0,2021.0,500,52,448,10.4,8.62,43,8,254
+Test,2021,2022,2022.0,2023.0,498,51,447,10.24,8.76,43,8,255

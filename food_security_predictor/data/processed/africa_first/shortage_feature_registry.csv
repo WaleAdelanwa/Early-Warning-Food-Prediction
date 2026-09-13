@@ -1,0 +1,145 @@
+Feature,Feature type,Training missing values,Training missing %,Training unique values including missing,Status,Reason
+Area,Categorical,0,0.0,43,Retained,Contains usable training-period variation
+Item Code,Categorical,0,0.0,8,Retained,Contains usable training-period variation
+production_status,Categorical,0,0.0,4,Retained,Contains usable training-period variation
+domestic_supply_1000t_source_present,Binary indicator,0,0.0,1,Removed,Contains no variation in the training period
+export_quantity_1000t_source_present,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+fat_supply_g_cap_day_source_present,Binary indicator,0,0.0,1,Removed,Contains no variation in the training period
+feed_1000t_source_present,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+food_1000t_source_present,Binary indicator,0,0.0,1,Removed,Contains no variation in the training period
+food_supply_kcal_cap_day_source_present,Binary indicator,0,0.0,1,Removed,Contains no variation in the training period
+food_supply_quantity_kg_cap_yr_source_present,Binary indicator,0,0.0,1,Removed,Contains no variation in the training period
+import_quantity_1000t_source_present,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+losses_1000t_source_present,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+other_uses_non_food_1000t_source_present,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+processing_1000t_source_present,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+production_1000t_source_present,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+protein_supply_g_cap_day_source_present,Binary indicator,0,0.0,1,Removed,Contains no variation in the training period
+residuals_1000t_source_present,Binary indicator,0,0.0,1,Removed,Contains no variation in the training period
+seed_1000t_source_present,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+stock_variation_1000t_source_present,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+tourist_consumption_1000t_source_present,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+domestic_supply_1000t_missing,Binary indicator,0,0.0,1,Removed,Contains no variation in the training period
+export_quantity_1000t_missing,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+fat_supply_g_cap_day_missing,Binary indicator,0,0.0,1,Removed,Contains no variation in the training period
+feed_1000t_missing,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+food_1000t_missing,Binary indicator,0,0.0,1,Removed,Contains no variation in the training period
+food_supply_kcal_cap_day_missing,Binary indicator,0,0.0,1,Removed,Contains no variation in the training period
+food_supply_quantity_kg_cap_yr_missing,Binary indicator,0,0.0,1,Removed,Contains no variation in the training period
+import_quantity_1000t_missing,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+losses_1000t_missing,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+other_uses_non_food_1000t_missing,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+processing_1000t_missing,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+production_1000t_missing,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+protein_supply_g_cap_day_missing,Binary indicator,0,0.0,1,Removed,Contains no variation in the training period
+residuals_1000t_missing,Binary indicator,0,0.0,1,Removed,Contains no variation in the training period
+seed_1000t_missing,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+stock_variation_1000t_missing,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+tourist_consumption_1000t_missing,Binary indicator,0,0.0,2,Retained,Contains usable training-period variation
+Year,Numeric,0,0.0,9,Retained,Contains usable training-period variation
+Population,Numeric,0,0.0,387,Retained,Contains usable training-period variation
+domestic_supply_1000t,Numeric,0,0.0,1166,Retained,Contains usable training-period variation
+export_quantity_1000t,Numeric,476,21.155555555555555,178,Retained,Contains usable training-period variation
+fat_supply_g_cap_day,Numeric,0,0.0,611,Retained,Contains usable training-period variation
+feed_1000t,Numeric,438,19.466666666666665,472,Retained,Contains usable training-period variation
+food_1000t,Numeric,0,0.0,1024,Retained,Contains usable training-period variation
+food_supply_kcal_cap_day,Numeric,0,0.0,2162,Retained,Contains usable training-period variation
+food_supply_quantity_kg_cap_yr,Numeric,0,0.0,1799,Retained,Contains usable training-period variation
+import_quantity_1000t,Numeric,139,6.177777777777778,615,Retained,Contains usable training-period variation
+losses_1000t,Numeric,218,9.688888888888888,430,Retained,Contains usable training-period variation
+other_uses_non_food_1000t,Numeric,1428,63.46666666666667,185,Retained,Contains usable training-period variation
+processing_1000t,Numeric,1087,48.31111111111111,203,Retained,Contains usable training-period variation
+production_1000t,Numeric,263,11.688888888888888,951,Retained,Contains usable training-period variation
+protein_supply_g_cap_day,Numeric,0,0.0,1060,Retained,Contains usable training-period variation
+residuals_1000t,Numeric,0,0.0,104,Retained,Contains usable training-period variation
+seed_1000t,Numeric,626,27.822222222222223,166,Retained,Contains usable training-period variation
+stock_variation_1000t,Numeric,113,5.022222222222222,438,Retained,Contains usable training-period variation
+tourist_consumption_1000t,Numeric,1868,83.02222222222223,22,Retained,Contains usable training-period variation
+recorded_element_count,Numeric,0,0.0,10,Retained,Contains usable training-period variation
+source_absent_element_count,Numeric,0,0.0,9,Retained,Contains usable training-period variation
+source_present_missing_element_count,Numeric,0,0.0,5,Retained,Contains usable training-period variation
+recorded_zero_element_count,Numeric,0,0.0,10,Retained,Contains usable training-period variation
+recorded_negative_element_count,Numeric,0,0.0,3,Retained,Contains usable training-period variation
+supply_outcome_recorded_count,Numeric,0,0.0,2,Retained,Contains usable training-period variation
+domestic_supply_1000t_lag1,Numeric,249,11.066666666666666,1066,Retained,Contains usable training-period variation
+export_quantity_1000t_lag1,Numeric,656,29.155555555555555,168,Retained,Contains usable training-period variation
+fat_supply_g_cap_day_lag1,Numeric,249,11.066666666666666,575,Retained,Contains usable training-period variation
+feed_1000t_lag1,Numeric,646,28.711111111111112,436,Retained,Contains usable training-period variation
+food_1000t_lag1,Numeric,249,11.066666666666666,939,Retained,Contains usable training-period variation
+food_supply_kcal_cap_day_lag1,Numeric,249,11.066666666666666,1932,Retained,Contains usable training-period variation
+food_supply_quantity_kg_cap_yr_lag1,Numeric,249,11.066666666666666,1636,Retained,Contains usable training-period variation
+import_quantity_1000t_lag1,Numeric,374,16.622222222222224,565,Retained,Contains usable training-period variation
+losses_1000t_lag1,Numeric,444,19.733333333333334,400,Retained,Contains usable training-period variation
+production_1000t_lag1,Numeric,483,21.466666666666665,873,Retained,Contains usable training-period variation
+protein_supply_g_cap_day_lag1,Numeric,249,11.066666666666666,991,Retained,Contains usable training-period variation
+residuals_1000t_lag1,Numeric,249,11.066666666666666,98,Retained,Contains usable training-period variation
+seed_1000t_lag1,Numeric,809,35.955555555555556,159,Retained,Contains usable training-period variation
+stock_variation_1000t_lag1,Numeric,353,15.688888888888888,406,Retained,Contains usable training-period variation
+domestic_supply_1000t_change1,Numeric,249,11.066666666666666,531,Retained,Contains usable training-period variation
+export_quantity_1000t_change1,Numeric,758,33.68888888888889,160,Retained,Contains usable training-period variation
+fat_supply_g_cap_day_change1,Numeric,249,11.066666666666666,514,Retained,Contains usable training-period variation
+feed_1000t_change1,Numeric,652,28.977777777777778,315,Retained,Contains usable training-period variation
+food_1000t_change1,Numeric,249,11.066666666666666,406,Retained,Contains usable training-period variation
+food_supply_kcal_cap_day_change1,Numeric,249,11.066666666666666,1871,Retained,Contains usable training-period variation
+food_supply_quantity_kg_cap_yr_change1,Numeric,249,11.066666666666666,1451,Retained,Contains usable training-period variation
+import_quantity_1000t_change1,Numeric,407,18.08888888888889,405,Retained,Contains usable training-period variation
+losses_1000t_change1,Numeric,446,19.822222222222223,191,Retained,Contains usable training-period variation
+production_1000t_change1,Numeric,486,21.6,528,Retained,Contains usable training-period variation
+protein_supply_g_cap_day_change1,Numeric,249,11.066666666666666,805,Retained,Contains usable training-period variation
+residuals_1000t_change1,Numeric,249,11.066666666666666,92,Retained,Contains usable training-period variation
+seed_1000t_change1,Numeric,809,35.955555555555556,84,Retained,Contains usable training-period variation
+stock_variation_1000t_change1,Numeric,354,15.733333333333333,463,Retained,Contains usable training-period variation
+domestic_supply_1000t_pct_change1,Numeric,265,11.777777777777779,1564,Retained,Contains usable training-period variation
+export_quantity_1000t_pct_change1,Numeric,1470,65.33333333333333,363,Retained,Contains usable training-period variation
+fat_supply_g_cap_day_pct_change1,Numeric,251,11.155555555555555,1386,Retained,Contains usable training-period variation
+feed_1000t_pct_change1,Numeric,1132,50.31111111111111,686,Retained,Contains usable training-period variation
+food_1000t_pct_change1,Numeric,273,12.133333333333333,1450,Retained,Contains usable training-period variation
+food_supply_kcal_cap_day_pct_change1,Numeric,249,11.066666666666666,1999,Retained,Contains usable training-period variation
+food_supply_quantity_kg_cap_yr_pct_change1,Numeric,250,11.11111111111111,1974,Retained,Contains usable training-period variation
+import_quantity_1000t_pct_change1,Numeric,840,37.333333333333336,937,Retained,Contains usable training-period variation
+losses_1000t_pct_change1,Numeric,751,33.37777777777778,709,Retained,Contains usable training-period variation
+production_1000t_pct_change1,Numeric,559,24.844444444444445,1225,Retained,Contains usable training-period variation
+protein_supply_g_cap_day_pct_change1,Numeric,250,11.11111111111111,1782,Retained,Contains usable training-period variation
+residuals_1000t_pct_change1,Numeric,2062,91.64444444444445,96,Removed after suitability review,"Removed because 91.64% of training values are missing and residuals are usually zero, making percentage change undefined and unstable"
+seed_1000t_pct_change1,Numeric,1143,50.8,372,Retained,Contains usable training-period variation
+stock_variation_1000t_pct_change1,Numeric,1094,48.62222222222222,743,Retained,Contains usable training-period variation
+domestic_supply_1000t_rolling3_mean,Numeric,249,11.066666666666666,1448,Retained,Contains usable training-period variation
+export_quantity_1000t_rolling3_mean,Numeric,658,29.244444444444444,295,Retained,Contains usable training-period variation
+fat_supply_g_cap_day_rolling3_mean,Numeric,249,11.066666666666666,1199,Retained,Contains usable training-period variation
+feed_1000t_rolling3_mean,Numeric,646,28.711111111111112,615,Retained,Contains usable training-period variation
+food_1000t_rolling3_mean,Numeric,249,11.066666666666666,1308,Retained,Contains usable training-period variation
+food_supply_kcal_cap_day_rolling3_mean,Numeric,249,11.066666666666666,1986,Retained,Contains usable training-period variation
+food_supply_quantity_kg_cap_yr_rolling3_mean,Numeric,249,11.066666666666666,1894,Retained,Contains usable training-period variation
+import_quantity_1000t_rolling3_mean,Numeric,365,16.22222222222222,800,Retained,Contains usable training-period variation
+losses_1000t_rolling3_mean,Numeric,443,19.68888888888889,621,Retained,Contains usable training-period variation
+production_1000t_rolling3_mean,Numeric,483,21.466666666666665,1147,Retained,Contains usable training-period variation
+protein_supply_g_cap_day_rolling3_mean,Numeric,249,11.066666666666666,1535,Retained,Contains usable training-period variation
+residuals_1000t_rolling3_mean,Numeric,249,11.066666666666666,136,Retained,Contains usable training-period variation
+seed_1000t_rolling3_mean,Numeric,809,35.955555555555556,317,Retained,Contains usable training-period variation
+stock_variation_1000t_rolling3_mean,Numeric,354,15.733333333333333,551,Retained,Contains usable training-period variation
+domestic_supply_1000t_rolling3_std,Numeric,249,11.066666666666666,1520,Retained,Contains usable training-period variation
+export_quantity_1000t_rolling3_std,Numeric,658,29.244444444444444,458,Retained,Contains usable training-period variation
+fat_supply_g_cap_day_rolling3_std,Numeric,249,11.066666666666666,1500,Retained,Contains usable training-period variation
+feed_1000t_rolling3_std,Numeric,646,28.711111111111112,754,Retained,Contains usable training-period variation
+food_1000t_rolling3_std,Numeric,249,11.066666666666666,1413,Retained,Contains usable training-period variation
+food_supply_kcal_cap_day_rolling3_std,Numeric,249,11.066666666666666,1995,Retained,Contains usable training-period variation
+food_supply_quantity_kg_cap_yr_rolling3_std,Numeric,249,11.066666666666666,1973,Retained,Contains usable training-period variation
+import_quantity_1000t_rolling3_std,Numeric,365,16.22222222222222,1003,Retained,Contains usable training-period variation
+losses_1000t_rolling3_std,Numeric,443,19.68888888888889,687,Retained,Contains usable training-period variation
+production_1000t_rolling3_std,Numeric,483,21.466666666666665,1237,Retained,Contains usable training-period variation
+protein_supply_g_cap_day_rolling3_std,Numeric,249,11.066666666666666,1779,Retained,Contains usable training-period variation
+residuals_1000t_rolling3_std,Numeric,249,11.066666666666666,155,Retained,Contains usable training-period variation
+seed_1000t_rolling3_std,Numeric,809,35.955555555555556,360,Retained,Contains usable training-period variation
+stock_variation_1000t_rolling3_std,Numeric,354,15.733333333333333,975,Retained,Contains usable training-period variation
+Population_lag1,Numeric,249,11.066666666666666,345,Retained,Contains usable training-period variation
+Population_growth_pct1,Numeric,249,11.066666666666666,345,Retained,Contains usable training-period variation
+import_share_of_domestic_supply_pct,Numeric,154,6.844444444444444,1325,Retained,Contains usable training-period variation
+production_share_of_domestic_supply_pct,Numeric,271,12.044444444444444,1443,Retained,Contains usable training-period variation
+export_share_of_domestic_supply_pct,Numeric,476,21.155555555555555,843,Retained,Contains usable training-period variation
+food_share_of_domestic_supply_pct,Numeric,15,0.6666666666666666,1694,Retained,Contains usable training-period variation
+losses_share_of_domestic_supply_pct,Numeric,226,10.044444444444444,1332,Retained,Contains usable training-period variation
+stock_variation_share_of_domestic_supply_pct,Numeric,119,5.288888888888889,1210,Retained,Contains usable training-period variation
+production_kg_per_person,Numeric,263,11.688888888888888,1862,Retained,Contains usable training-period variation
+imports_kg_per_person,Numeric,139,6.177777777777778,1552,Retained,Contains usable training-period variation
+exports_kg_per_person,Numeric,476,21.155555555555555,833,Retained,Contains usable training-period variation
+log_population,Numeric,0,0.0,387,Retained,Contains usable training-period variation

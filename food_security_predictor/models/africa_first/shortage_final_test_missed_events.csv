@@ -1,0 +1,19 @@
+Area,Item Code,Item,Year,target_year,shortage_next_year,predicted_shortage_probability,predicted_shortage_warning,prediction_status,risk_band
+Guinea-Bissau,2511,Wheat and products,2022,2023,1,0.11568347763347764,0,Shortage missed,Watch: 5% to below 13%
+Liberia,2511,Wheat and products,2021,2022,1,0.1154940670440671,0,Shortage missed,Watch: 5% to below 13%
+Ghana,2511,Wheat and products,2022,2023,1,0.11074328449328454,0,Shortage missed,Watch: 5% to below 13%
+Mozambique,2511,Wheat and products,2021,2022,1,0.10982929292929293,0,Shortage missed,Watch: 5% to below 13%
+Liberia,2511,Wheat and products,2022,2023,1,0.10704334554334555,0,Shortage missed,Watch: 5% to below 13%
+United Republic of Tanzania,2518,Sorghum and products,2021,2022,1,0.09399372294372293,0,Shortage missed,Watch: 5% to below 13%
+Uganda,2532,Cassava and products,2022,2023,1,0.07824206349206352,0,Shortage missed,Watch: 5% to below 13%
+Democratic Republic of the Congo,2552,Groundnuts,2022,2023,1,0.07242936507936511,0,Shortage missed,Watch: 5% to below 13%
+Mozambique,2552,Groundnuts,2021,2022,1,0.07147142857142856,0,Shortage missed,Watch: 5% to below 13%
+Kenya,2511,Wheat and products,2021,2022,1,0.0705924963924964,0,Shortage missed,Watch: 5% to below 13%
+Nigeria,2517,Millet and products,2022,2023,1,0.06622301587301584,0,Shortage missed,Watch: 5% to below 13%
+Eswatini,2518,Sorghum and products,2021,2022,1,0.063517316017316,0,Shortage missed,Watch: 5% to below 13%
+Seychelles,2807,Rice and products,2022,2023,1,0.06251056166056164,0,Shortage missed,Watch: 5% to below 13%
+Libya,2807,Rice and products,2021,2022,1,0.05878095238095238,0,Shortage missed,Watch: 5% to below 13%
+Zambia,2532,Cassava and products,2021,2022,1,0.04951587301587301,0,Shortage missed,Very low: below 5%
+Libya,2511,Wheat and products,2022,2023,1,0.04898831168831168,0,Shortage missed,Very low: below 5%
+Côte d'Ivoire,2514,Maize and products,2022,2023,1,0.03552539682539683,0,Shortage missed,Very low: below 5%
+Sao Tome and Principe,2511,Wheat and products,2022,2023,1,0.03551190476190476,0,Shortage missed,Very low: below 5%

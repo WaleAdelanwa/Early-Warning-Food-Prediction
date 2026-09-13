@@ -1,0 +1,51 @@
+{
+  "project": "Africa-first food supply shortage predictor",
+  "model_family": "Random forest",
+  "model_settings": {
+    "number_of_trees": 500,
+    "maximum_depth": null,
+    "minimum_observations_per_leaf": 3,
+    "features_considered_per_split": "square root",
+    "class_weighting": null
+  },
+  "probability_threshold": 0.13,
+  "threshold_selection": {
+    "evidence_predictor_years": "2015–2020",
+    "objective": "Highest precision among thresholds within 99% of maximum pooled F2",
+    "test_data_used": false
+  },
+  "test_period": {
+    "predictor_years": "2021–2022",
+    "outcome_years": "2022–2023",
+    "observations": 498,
+    "shortages": 51
+  },
+  "test_results": {
+    "warnings_issued": 159,
+    "shortages_detected": 33,
+    "shortages_missed": 18,
+    "false_warnings": 126,
+    "precision": 0.20754716981132076,
+    "recall": 0.6470588235294118,
+    "specificity": 0.7181208053691275,
+    "f2": 0.45454545454545453,
+    "balanced_accuracy": 0.6825898144492697,
+    "roc_auc": 0.7597490897925165,
+    "pr_auc": 0.3070511563090604,
+    "brier_score": 0.08233227356731727,
+    "pr_auc_no_skill_reference": 0.10240963855421686,
+    "pr_auc_lift": 2.9982642321943542
+  },
+  "interpretation": {
+    "intended_use": "Early-warning screening and prioritisation",
+    "not_intended_for": "Automatic declaration that a shortage will occur",
+    "important_limitation": "A substantial number of false warnings requires human review",
+    "post_test_model_change": false,
+    "post_test_threshold_change": false
+  },
+  "software": {
+    "scikit_learn_version": "1.9.0",
+    "pandas_version": "3.0.3",
+    "numpy_version": "2.4.6"
+  }
+}

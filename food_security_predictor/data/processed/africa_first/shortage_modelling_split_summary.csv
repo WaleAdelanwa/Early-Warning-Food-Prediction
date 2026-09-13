@@ -1,0 +1,4 @@
+Temporal split,Rows,Predictors,Predictor year start,Predictor year end,Target year start,Target year end,Positive events,Negative outcomes,Event rate %,Missing predictor cells,Missing predictor %
+Train,2250,129,2010,2018,2011,2019,231,2019,10.266666666666667,39985,13.776055124892334
+Validation,500,129,2019,2020,2020,2021,52,448,10.4,5356,8.303875968992248
+Test,498,129,2021,2022,2022,2023,51,447,10.240963855421686,5083,7.912269231966627

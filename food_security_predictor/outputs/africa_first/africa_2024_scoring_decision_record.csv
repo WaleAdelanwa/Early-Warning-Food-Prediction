@@ -1,0 +1,20 @@
+Decision component,Decision
+Predictor year,2023
+Target year,2024
+Available country-commodity grid,344
+Scored observations,249
+Unscored observations,95
+Current calorie eligibility minimum,5.0
+Probability threshold,0.13
+Watch-or-higher observations,156
+Formal warnings,77
+High warnings,12
+Usual-support observations,195
+Heightened-review observations,53
+Limited-evidence observations,1
+Headline-ranking observations,248
+Formal warnings excluded from headline ranking,1
+Risk-band PSI against locked test,0.03160472960816699
+Observed 2024 outcomes used,False
+Threshold changed after scoring,False
+Intended interpretation,Model-generated early-warning screening estimate requiring human review

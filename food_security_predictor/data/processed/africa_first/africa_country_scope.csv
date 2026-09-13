@@ -1,0 +1,56 @@
+M49 Code,Reference Area,Default Inclusion,Area Code,Area,Present in FAO,Name Matches,Include,Exclusion Reason,Scope Status
+012,Algeria,True,4.0,Algeria,True,True,True,,Included
+024,Angola,True,7.0,Angola,True,True,True,,Included
+204,Benin,True,,,False,False,False,No records in this FAOSTAT Food Balance Sheets release,Excluded
+072,Botswana,True,20.0,Botswana,True,True,True,,Included
+854,Burkina Faso,True,233.0,Burkina Faso,True,True,True,,Included
+108,Burundi,True,,,False,False,False,No records in this FAOSTAT Food Balance Sheets release,Excluded
+132,Cabo Verde,True,35.0,Cabo Verde,True,True,True,,Included
+120,Cameroon,True,32.0,Cameroon,True,True,True,,Included
+140,Central African Republic,True,,,False,False,False,No records in this FAOSTAT Food Balance Sheets release,Excluded
+148,Chad,True,,,False,False,False,No records in this FAOSTAT Food Balance Sheets release,Excluded
+174,Comoros,True,45.0,Comoros,True,True,True,,Included
+178,Congo,True,46.0,Congo,True,True,True,,Included
+180,Democratic Republic of the Congo,True,250.0,Democratic Republic of the Congo,True,True,True,,Included
+384,Côte d'Ivoire,True,107.0,Côte d'Ivoire,True,True,True,,Included
+262,Djibouti,True,72.0,Djibouti,True,True,True,,Included
+818,Egypt,True,59.0,Egypt,True,True,True,,Included
+226,Equatorial Guinea,True,,,False,False,False,No records in this FAOSTAT Food Balance Sheets release,Excluded
+232,Eritrea,True,,,False,False,False,No records in this FAOSTAT Food Balance Sheets release,Excluded
+748,Eswatini,True,209.0,Eswatini,True,True,True,,Included
+231,Ethiopia,True,238.0,Ethiopia,True,True,True,,Included
+266,Gabon,True,74.0,Gabon,True,True,True,,Included
+270,Gambia,True,75.0,Gambia,True,True,True,,Included
+288,Ghana,True,81.0,Ghana,True,True,True,,Included
+324,Guinea,True,90.0,Guinea,True,True,True,,Included
+624,Guinea-Bissau,True,175.0,Guinea-Bissau,True,True,True,,Included
+404,Kenya,True,114.0,Kenya,True,True,True,,Included
+426,Lesotho,True,122.0,Lesotho,True,True,True,,Included
+430,Liberia,True,123.0,Liberia,True,True,True,,Included
+434,Libya,True,124.0,Libya,True,True,True,,Included
+450,Madagascar,True,129.0,Madagascar,True,True,True,,Included
+454,Malawi,True,130.0,Malawi,True,True,True,,Included
+466,Mali,True,,,False,False,False,No records in this FAOSTAT Food Balance Sheets release,Excluded
+478,Mauritania,True,136.0,Mauritania,True,True,True,,Included
+480,Mauritius,True,137.0,Mauritius,True,True,True,,Included
+504,Morocco,True,143.0,Morocco,True,True,True,,Included
+508,Mozambique,True,144.0,Mozambique,True,True,True,,Included
+516,Namibia,True,147.0,Namibia,True,True,True,,Included
+562,Niger,True,158.0,Niger,True,True,True,,Included
+566,Nigeria,True,159.0,Nigeria,True,True,True,,Included
+646,Rwanda,True,184.0,Rwanda,True,True,True,,Included
+678,Sao Tome and Principe,True,193.0,Sao Tome and Principe,True,True,True,,Included
+686,Senegal,True,195.0,Senegal,True,True,True,,Included
+690,Seychelles,True,196.0,Seychelles,True,True,True,,Included
+694,Sierra Leone,True,197.0,Sierra Leone,True,True,True,,Included
+706,Somalia,True,,,False,False,False,No records in this FAOSTAT Food Balance Sheets release,Excluded
+710,South Africa,True,202.0,South Africa,True,True,True,,Included
+728,South Sudan,True,,,False,False,False,No records in this FAOSTAT Food Balance Sheets release,Excluded
+729,Sudan,True,,,False,False,False,No records in this FAOSTAT Food Balance Sheets release,Excluded
+834,United Republic of Tanzania,True,215.0,United Republic of Tanzania,True,True,True,,Included
+768,Togo,True,,,False,False,False,No records in this FAOSTAT Food Balance Sheets release,Excluded
+788,Tunisia,True,222.0,Tunisia,True,True,True,,Included
+800,Uganda,True,226.0,Uganda,True,True,True,,Included
+894,Zambia,True,251.0,Zambia,True,True,True,,Included
+716,Zimbabwe,True,181.0,Zimbabwe,True,True,True,,Included
+732,Western Sahara,False,,,False,False,False,Territorial review case; excluded from default sovereign-country scope and absent from source,Excluded

@@ -1,0 +1,2 @@
+Model,Dataset,Threshold,Observations,Actual shortages,Warnings issued,True negatives,False positives,False negatives,True positives,Accuracy,Balanced accuracy,Precision,Recall,Specificity,F1,F2,ROC-AUC,PR-AUC,Brier score
+Locked random forest,Final locked test,0.13,498,51,159,321,126,18,33,0.7108433734939759,0.6825898144492697,0.20754716981132076,0.6470588235294118,0.7181208053691275,0.3142857142857143,0.45454545454545453,0.7597490897925165,0.3070511563090604,0.08233227356731727

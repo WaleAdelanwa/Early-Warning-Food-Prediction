@@ -1,0 +1,45 @@
+{
+  "project": "Africa-first food-supply shortage predictor",
+  "historical_evidence": {
+    "outcome_years": "2011–2023",
+    "observations": 3248,
+    "observed_shortage_events": 334,
+    "countries": 43,
+    "commodities": 8,
+    "event_definition": "Next-year calorie availability fell by at least 15 percent and at least 5 kcal/person/day, where current availability was at least 5 kcal/person/day."
+  },
+  "recent_period": {
+    "outcome_years": "2019–2023",
+    "observations": 1248,
+    "observed_shortage_events": 137
+  },
+  "historical_country_rank": {
+    "name": "Historical burden rank",
+    "primary_measure": "Wilson lower bound for the full-period event rate",
+    "reason": "Uses the observed shortage rate while accounting for unequal eligible observation denominators.",
+    "important_limitation": "Repeated country-commodity-year observations are not fully independent; Wilson bounds are used as conservative ranking aids, not formal causal or survey confidence intervals."
+  },
+  "recent_country_rank": {
+    "name": "Recent burden rank",
+    "period": "2019–2023",
+    "primary_measure": "Wilson lower bound for the recent event rate"
+  },
+  "forward_country_ranks": {
+    "portfolio_rank": "Average predicted 2024 probability across evidence-qualified scored commodities",
+    "peak_risk_rank": "Maximum predicted 2024 commodity probability",
+    "warning_share": "Formal warnings divided by evidence-qualified scored commodities",
+    "important_interpretation": "Forward ranks are model-generated screening priorities, not observed events or national food-insecurity probabilities."
+  },
+  "limited_evidence_policy": {
+    "full_register_retains_limited_evidence": true,
+    "headline_ranking_excludes_limited_evidence": true,
+    "excluded_2024_observations": 1,
+    "excluded_formal_warnings": 1
+  },
+  "combined_rank": {
+    "created": false,
+    "reason": "Combining observed historical events, recent events and model probabilities would require subjective weights and could conceal important commodity-specific signals."
+  },
+  "reporting_requirement": "Every country report must present denominators, historical rates, recent evidence, commodity breadth, average forward risk, peak forward risk and evidence limitations separately.",
+  "created_utc": "2026-08-25T14:06:05.159723+00:00"
+}
